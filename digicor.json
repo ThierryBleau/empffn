@@ -1,0 +1,4945 @@
+{
+  "digicorew": [
+    {
+      "_id": "5b3f1602fa8e44117f28af59", 
+      "date": "2017-01-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 998.33, 
+      "value": 100, 
+      "pctChgDoD": 0, 
+      "chgDoD": 0
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af5a", 
+      "date": "2017-01-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1021.75, 
+      "value": 102.3459, 
+      "pctChgDoD": 0.0235, 
+      "chgDoD": 23.42
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af5b", 
+      "date": "2017-01-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1043.84, 
+      "value": 104.5586, 
+      "pctChgDoD": 0.0216, 
+      "chgDoD": 22.09
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af5c", 
+      "date": "2017-01-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1154.73, 
+      "value": 115.6662, 
+      "pctChgDoD": 0.1062, 
+      "chgDoD": 110.89
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af5d", 
+      "date": "2017-01-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1013.38, 
+      "value": 101.5075, 
+      "pctChgDoD": -0.1224, 
+      "chgDoD": -141.35
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af5e", 
+      "date": "2017-01-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 902.2, 
+      "value": 90.3709, 
+      "pctChgDoD": -0.1097, 
+      "chgDoD": -111.18
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af5f", 
+      "date": "2017-01-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 908.59, 
+      "value": 91.011, 
+      "pctChgDoD": 0.0071, 
+      "chgDoD": 6.39
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af60", 
+      "date": "2017-01-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 911.2, 
+      "value": 91.2724, 
+      "pctChgDoD": 0.0029, 
+      "chgDoD": 2.61
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af61", 
+      "date": "2017-01-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 902.83, 
+      "value": 90.434, 
+      "pctChgDoD": -0.0092, 
+      "chgDoD": -8.37
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af62", 
+      "date": "2017-01-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 907.68, 
+      "value": 90.9198, 
+      "pctChgDoD": 0.0054, 
+      "chgDoD": 4.85
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af63", 
+      "date": "2017-01-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 777.76, 
+      "value": 77.9061, 
+      "pctChgDoD": -0.1431, 
+      "chgDoD": -129.92
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af64", 
+      "date": "2017-01-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 804.83, 
+      "value": 80.6176, 
+      "pctChgDoD": 0.0348, 
+      "chgDoD": 27.07
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af65", 
+      "date": "2017-01-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 823.98, 
+      "value": 82.5358, 
+      "pctChgDoD": 0.0238, 
+      "chgDoD": 19.15
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af66", 
+      "date": "2017-01-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 818.41, 
+      "value": 81.9779, 
+      "pctChgDoD": -0.0068, 
+      "chgDoD": -5.57
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af67", 
+      "date": "2017-01-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 821.8, 
+      "value": 82.3175, 
+      "pctChgDoD": 0.0041, 
+      "chgDoD": 3.39
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af68", 
+      "date": "2017-01-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 831.53, 
+      "value": 83.2921, 
+      "pctChgDoD": 0.0118, 
+      "chgDoD": 9.73
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af69", 
+      "date": "2017-01-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 907.94, 
+      "value": 90.9459, 
+      "pctChgDoD": 0.0919, 
+      "chgDoD": 76.41
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af6a", 
+      "date": "2017-01-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 886.62, 
+      "value": 88.8103, 
+      "pctChgDoD": -0.0235, 
+      "chgDoD": -21.32
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af6b", 
+      "date": "2017-01-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 899.07, 
+      "value": 90.0574, 
+      "pctChgDoD": 0.014, 
+      "chgDoD": 12.45
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af6c", 
+      "date": "2017-01-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 895.03, 
+      "value": 89.6527, 
+      "pctChgDoD": -0.0045, 
+      "chgDoD": -4.04
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af6d", 
+      "date": "2017-01-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 921.79, 
+      "value": 92.3332, 
+      "pctChgDoD": 0.0299, 
+      "chgDoD": 26.76
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af6e", 
+      "date": "2017-01-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 924.67, 
+      "value": 92.6217, 
+      "pctChgDoD": 0.0031, 
+      "chgDoD": 2.88
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af6f", 
+      "date": "2017-01-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 921.01, 
+      "value": 92.2551, 
+      "pctChgDoD": -0.004, 
+      "chgDoD": -3.66
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af70", 
+      "date": "2017-01-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 892.69, 
+      "value": 89.4183, 
+      "pctChgDoD": -0.0307, 
+      "chgDoD": -28.32
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af71", 
+      "date": "2017-01-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 901.54, 
+      "value": 90.3048, 
+      "pctChgDoD": 0.0099, 
+      "chgDoD": 8.85
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af72", 
+      "date": "2017-01-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 917.59, 
+      "value": 91.9125, 
+      "pctChgDoD": 0.0178, 
+      "chgDoD": 16.05
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af73", 
+      "date": "2017-01-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 919.75, 
+      "value": 92.1289, 
+      "pctChgDoD": 0.0024, 
+      "chgDoD": 2.16
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af74", 
+      "date": "2017-01-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 921.59, 
+      "value": 92.3132, 
+      "pctChgDoD": 0.002, 
+      "chgDoD": 1.84
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af75", 
+      "date": "2017-01-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 919.5, 
+      "value": 92.1038, 
+      "pctChgDoD": -0.0023, 
+      "chgDoD": -2.09
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af76", 
+      "date": "2017-01-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 920.38, 
+      "value": 92.192, 
+      "pctChgDoD": 0.001, 
+      "chgDoD": 0.88
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af77", 
+      "date": "2017-01-31T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 970.4, 
+      "value": 97.2023, 
+      "pctChgDoD": 0.0543, 
+      "chgDoD": 50.02
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af78", 
+      "date": "2017-02-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 989.02, 
+      "value": 99.0674, 
+      "pctChgDoD": 0.0192, 
+      "chgDoD": 18.62
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af79", 
+      "date": "2017-02-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1011.8, 
+      "value": 101.3493, 
+      "pctChgDoD": 0.023, 
+      "chgDoD": 22.78
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af7a", 
+      "date": "2017-02-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1029.91, 
+      "value": 103.1633, 
+      "pctChgDoD": 0.0179, 
+      "chgDoD": 18.11
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af7b", 
+      "date": "2017-02-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1042.9, 
+      "value": 104.4645, 
+      "pctChgDoD": 0.0126, 
+      "chgDoD": 12.99
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af7c", 
+      "date": "2017-02-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1027.34, 
+      "value": 102.9059, 
+      "pctChgDoD": -0.0149, 
+      "chgDoD": -15.56
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af7d", 
+      "date": "2017-02-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1038.15, 
+      "value": 103.9887, 
+      "pctChgDoD": 0.0105, 
+      "chgDoD": 10.81
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af7e", 
+      "date": "2017-02-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1061.35, 
+      "value": 106.3125, 
+      "pctChgDoD": 0.0223, 
+      "chgDoD": 23.2
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af7f", 
+      "date": "2017-02-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1063.07, 
+      "value": 106.4848, 
+      "pctChgDoD": 0.0016, 
+      "chgDoD": 1.72
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af80", 
+      "date": "2017-02-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 994.38, 
+      "value": 99.6043, 
+      "pctChgDoD": -0.0646, 
+      "chgDoD": -68.69
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af81", 
+      "date": "2017-02-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 988.67, 
+      "value": 99.0324, 
+      "pctChgDoD": -0.0057, 
+      "chgDoD": -5.71
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af82", 
+      "date": "2017-02-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1004.45, 
+      "value": 100.613, 
+      "pctChgDoD": 0.016, 
+      "chgDoD": 15.78
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af83", 
+      "date": "2017-02-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 999.18, 
+      "value": 100.0851, 
+      "pctChgDoD": -0.0052, 
+      "chgDoD": -5.27
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af84", 
+      "date": "2017-02-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 990.64, 
+      "value": 99.2297, 
+      "pctChgDoD": -0.0085, 
+      "chgDoD": -8.54
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af85", 
+      "date": "2017-02-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1004.55, 
+      "value": 100.623, 
+      "pctChgDoD": 0.014, 
+      "chgDoD": 13.91
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af86", 
+      "date": "2017-02-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1007.48, 
+      "value": 100.9165, 
+      "pctChgDoD": 0.0029, 
+      "chgDoD": 2.93
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af87", 
+      "date": "2017-02-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1027.44, 
+      "value": 102.9159, 
+      "pctChgDoD": 0.0198, 
+      "chgDoD": 19.96
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af88", 
+      "date": "2017-02-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1046.21, 
+      "value": 104.796, 
+      "pctChgDoD": 0.0183, 
+      "chgDoD": 18.77
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af89", 
+      "date": "2017-02-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1054.42, 
+      "value": 105.6184, 
+      "pctChgDoD": 0.0078, 
+      "chgDoD": 8.21
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af8a", 
+      "date": "2017-02-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1047.87, 
+      "value": 104.9623, 
+      "pctChgDoD": -0.0062, 
+      "chgDoD": -6.55
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af8b", 
+      "date": "2017-02-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1079.98, 
+      "value": 108.1787, 
+      "pctChgDoD": 0.0306, 
+      "chgDoD": 32.11
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af8c", 
+      "date": "2017-02-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1115.3, 
+      "value": 111.7166, 
+      "pctChgDoD": 0.0327, 
+      "chgDoD": 35.32
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af8d", 
+      "date": "2017-02-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1117.44, 
+      "value": 111.9309, 
+      "pctChgDoD": 0.0019, 
+      "chgDoD": 2.14
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af8e", 
+      "date": "2017-02-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1166.72, 
+      "value": 116.8672, 
+      "pctChgDoD": 0.0441, 
+      "chgDoD": 49.28
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af8f", 
+      "date": "2017-02-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1173.68, 
+      "value": 117.5643, 
+      "pctChgDoD": 0.006, 
+      "chgDoD": 6.96
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af90", 
+      "date": "2017-02-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1143.84, 
+      "value": 114.5753, 
+      "pctChgDoD": -0.0254, 
+      "chgDoD": -29.84
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af91", 
+      "date": "2017-02-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1165.2, 
+      "value": 116.7149, 
+      "pctChgDoD": 0.0187, 
+      "chgDoD": 21.36
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af92", 
+      "date": "2017-02-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1179.97, 
+      "value": 118.1944, 
+      "pctChgDoD": 0.0127, 
+      "chgDoD": 14.77
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af93", 
+      "date": "2017-02-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1179.97, 
+      "value": 118.1944, 
+      "pctChgDoD": 0.0, 
+      "chgDoD": 0.0
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af94", 
+      "date": "2017-03-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1222.5, 
+      "value": 122.4545, 
+      "pctChgDoD": 0.036, 
+      "chgDoD": 42.53
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af95", 
+      "date": "2017-03-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1251.01, 
+      "value": 125.3103, 
+      "pctChgDoD": 0.0233, 
+      "chgDoD": 28.51
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af96", 
+      "date": "2017-03-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1274.99, 
+      "value": 127.7123, 
+      "pctChgDoD": 0.0192, 
+      "chgDoD": 23.98
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af97", 
+      "date": "2017-03-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1255.15, 
+      "value": 125.725, 
+      "pctChgDoD": -0.0156, 
+      "chgDoD": -19.84
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af98", 
+      "date": "2017-03-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1267.12, 
+      "value": 126.924, 
+      "pctChgDoD": 0.0095, 
+      "chgDoD": 11.97
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af99", 
+      "date": "2017-03-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1272.83, 
+      "value": 127.4959, 
+      "pctChgDoD": 0.0045, 
+      "chgDoD": 5.71
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af9a", 
+      "date": "2017-03-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1223.54, 
+      "value": 122.5587, 
+      "pctChgDoD": -0.0387, 
+      "chgDoD": -49.29
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af9b", 
+      "date": "2017-03-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1150.0, 
+      "value": 115.1924, 
+      "pctChgDoD": -0.0601, 
+      "chgDoD": -73.54
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af9c", 
+      "date": "2017-03-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1188.49, 
+      "value": 119.0478, 
+      "pctChgDoD": 0.0335, 
+      "chgDoD": 38.49
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af9d", 
+      "date": "2017-03-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1116.72, 
+      "value": 111.8588, 
+      "pctChgDoD": -0.0604, 
+      "chgDoD": -71.77
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af9e", 
+      "date": "2017-03-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1175.83, 
+      "value": 117.7797, 
+      "pctChgDoD": 0.0529, 
+      "chgDoD": 59.11
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28af9f", 
+      "date": "2017-03-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1221.38, 
+      "value": 122.3423, 
+      "pctChgDoD": 0.0387, 
+      "chgDoD": 45.55
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afa0", 
+      "date": "2017-03-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1231.92, 
+      "value": 123.3981, 
+      "pctChgDoD": 0.0086, 
+      "chgDoD": 10.54
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afa1", 
+      "date": "2017-03-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1240.0, 
+      "value": 124.2074, 
+      "pctChgDoD": 0.0066, 
+      "chgDoD": 8.08
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afa2", 
+      "date": "2017-03-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1249.61, 
+      "value": 125.17, 
+      "pctChgDoD": 0.0077, 
+      "chgDoD": 9.61
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afa3", 
+      "date": "2017-03-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1187.81, 
+      "value": 118.9797, 
+      "pctChgDoD": -0.0495, 
+      "chgDoD": -61.8
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afa4", 
+      "date": "2017-03-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1100.23, 
+      "value": 110.207, 
+      "pctChgDoD": -0.0737, 
+      "chgDoD": -87.58
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afa5", 
+      "date": "2017-03-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 973.82, 
+      "value": 97.5449, 
+      "pctChgDoD": -0.1149, 
+      "chgDoD": -126.41
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afa6", 
+      "date": "2017-03-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1036.74, 
+      "value": 103.8474, 
+      "pctChgDoD": 0.0646, 
+      "chgDoD": 62.92
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afa7", 
+      "date": "2017-03-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1054.23, 
+      "value": 105.5994, 
+      "pctChgDoD": 0.0169, 
+      "chgDoD": 17.49
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afa8", 
+      "date": "2017-03-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1120.54, 
+      "value": 112.2414, 
+      "pctChgDoD": 0.0629, 
+      "chgDoD": 66.31
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afa9", 
+      "date": "2017-03-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1049.14, 
+      "value": 105.0895, 
+      "pctChgDoD": -0.0637, 
+      "chgDoD": -71.4
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afaa", 
+      "date": "2017-03-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1038.59, 
+      "value": 104.0327, 
+      "pctChgDoD": -0.0101, 
+      "chgDoD": -10.55
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afab", 
+      "date": "2017-03-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 937.52, 
+      "value": 93.9088, 
+      "pctChgDoD": -0.0973, 
+      "chgDoD": -101.07
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afac", 
+      "date": "2017-03-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 972.78, 
+      "value": 97.4407, 
+      "pctChgDoD": 0.0376, 
+      "chgDoD": 35.26
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afad", 
+      "date": "2017-03-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 966.73, 
+      "value": 96.8347, 
+      "pctChgDoD": -0.0062, 
+      "chgDoD": -6.05
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afae", 
+      "date": "2017-03-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1045.77, 
+      "value": 104.7519, 
+      "pctChgDoD": 0.0818, 
+      "chgDoD": 79.04
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afaf", 
+      "date": "2017-03-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1047.15, 
+      "value": 104.8902, 
+      "pctChgDoD": 0.0013, 
+      "chgDoD": 1.38
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afb0", 
+      "date": "2017-03-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1039.97, 
+      "value": 104.171, 
+      "pctChgDoD": -0.0069, 
+      "chgDoD": -7.18
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afb1", 
+      "date": "2017-03-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1026.43, 
+      "value": 102.8147, 
+      "pctChgDoD": -0.013, 
+      "chgDoD": -13.54
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afb2", 
+      "date": "2017-03-31T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1071.79, 
+      "value": 107.3583, 
+      "pctChgDoD": 0.0442, 
+      "chgDoD": 45.36
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afb3", 
+      "date": "2017-04-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1080.5, 
+      "value": 108.2307, 
+      "pctChgDoD": 0.0081, 
+      "chgDoD": 8.71
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afb4", 
+      "date": "2017-04-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1070.5562, 
+      "value": 107.2347, 
+      "pctChgDoD": -0.0092, 
+      "chgDoD": -9.9438
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afb5", 
+      "date": "2017-04-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1044.5971, 
+      "value": 104.6345, 
+      "pctChgDoD": -0.0242, 
+      "chgDoD": -25.9591
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afb6", 
+      "date": "2017-04-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1042.3007, 
+      "value": 104.4044, 
+      "pctChgDoD": -0.0022, 
+      "chgDoD": -2.2964
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afb7", 
+      "date": "2017-04-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1045.0986, 
+      "value": 104.6847, 
+      "pctChgDoD": 0.0027, 
+      "chgDoD": 2.7979
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afb8", 
+      "date": "2017-04-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1052.0976, 
+      "value": 105.3858, 
+      "pctChgDoD": 0.0067, 
+      "chgDoD": 6.999
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afb9", 
+      "date": "2017-04-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1037.6993, 
+      "value": 103.9435, 
+      "pctChgDoD": -0.0137, 
+      "chgDoD": -14.3983
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afba", 
+      "date": "2017-04-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1060.1343, 
+      "value": 106.1908, 
+      "pctChgDoD": 0.0216, 
+      "chgDoD": 22.435
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afbb", 
+      "date": "2017-04-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1055.0123, 
+      "value": 105.6777, 
+      "pctChgDoD": -0.0048, 
+      "chgDoD": -5.122
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afbc", 
+      "date": "2017-04-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1056.4538, 
+      "value": 105.8221, 
+      "pctChgDoD": 0.0014, 
+      "chgDoD": 1.4415
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afbd", 
+      "date": "2017-04-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1065.0741, 
+      "value": 106.6856, 
+      "pctChgDoD": 0.0082, 
+      "chgDoD": 8.6203
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afbe", 
+      "date": "2017-04-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1093.4428, 
+      "value": 109.5272, 
+      "pctChgDoD": 0.0266, 
+      "chgDoD": 28.3687
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afbf", 
+      "date": "2017-04-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1119.7752, 
+      "value": 112.1648, 
+      "pctChgDoD": 0.0241, 
+      "chgDoD": 26.3324
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afc0", 
+      "date": "2017-04-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1090.6673, 
+      "value": 109.2492, 
+      "pctChgDoD": -0.026, 
+      "chgDoD": -29.1079
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afc1", 
+      "date": "2017-04-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1109.4607, 
+      "value": 111.1317, 
+      "pctChgDoD": 0.0172, 
+      "chgDoD": 18.7934
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afc2", 
+      "date": "2017-04-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1110.6215, 
+      "value": 111.2479, 
+      "pctChgDoD": 0.001, 
+      "chgDoD": 1.1608
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afc3", 
+      "date": "2017-04-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1111.631, 
+      "value": 111.3491, 
+      "pctChgDoD": 0.0009, 
+      "chgDoD": 1.0095
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afc4", 
+      "date": "2017-04-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1146.1916, 
+      "value": 114.8109, 
+      "pctChgDoD": 0.0311, 
+      "chgDoD": 34.5606
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afc5", 
+      "date": "2017-04-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1119.9276, 
+      "value": 112.1801, 
+      "pctChgDoD": -0.0229, 
+      "chgDoD": -26.264
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afc6", 
+      "date": "2017-04-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1143.8145, 
+      "value": 114.5728, 
+      "pctChgDoD": 0.0213, 
+      "chgDoD": 23.8869
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afc7", 
+      "date": "2017-04-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1124.8486, 
+      "value": 112.673, 
+      "pctChgDoD": -0.0166, 
+      "chgDoD": -18.9659
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afc8", 
+      "date": "2017-04-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1133.195, 
+      "value": 113.5091, 
+      "pctChgDoD": 0.0074, 
+      "chgDoD": 8.3464
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afc9", 
+      "date": "2017-04-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1120.3056, 
+      "value": 112.218, 
+      "pctChgDoD": -0.0114, 
+      "chgDoD": -12.8894
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afca", 
+      "date": "2017-04-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1158.1856, 
+      "value": 116.0123, 
+      "pctChgDoD": 0.0338, 
+      "chgDoD": 37.88
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afcb", 
+      "date": "2017-04-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1164.3638, 
+      "value": 116.6312, 
+      "pctChgDoD": 0.0053, 
+      "chgDoD": 6.1782
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afcc", 
+      "date": "2017-04-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1202.3148, 
+      "value": 120.4326, 
+      "pctChgDoD": 0.0326, 
+      "chgDoD": 37.951
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afcd", 
+      "date": "2017-04-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1321.3372, 
+      "value": 132.3548, 
+      "pctChgDoD": 0.099, 
+      "chgDoD": 119.0224
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afce", 
+      "date": "2017-04-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1405.8522, 
+      "value": 140.8204, 
+      "pctChgDoD": 0.064, 
+      "chgDoD": 84.515
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afcf", 
+      "date": "2017-04-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1389.5399, 
+      "value": 139.1864, 
+      "pctChgDoD": -0.0116, 
+      "chgDoD": -16.3123
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afd0", 
+      "date": "2017-04-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1515.9678, 
+      "value": 151.8504, 
+      "pctChgDoD": 0.091, 
+      "chgDoD": 126.4279
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afd1", 
+      "date": "2017-05-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1523.839, 
+      "value": 152.6388, 
+      "pctChgDoD": 0.0052, 
+      "chgDoD": 7.8712
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afd2", 
+      "date": "2017-05-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1550.158, 
+      "value": 155.2751, 
+      "pctChgDoD": 0.0173, 
+      "chgDoD": 26.319
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afd3", 
+      "date": "2017-05-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1594.6984, 
+      "value": 159.7366, 
+      "pctChgDoD": 0.0287, 
+      "chgDoD": 44.5404
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afd4", 
+      "date": "2017-05-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1792.5549, 
+      "value": 179.5553, 
+      "pctChgDoD": 0.1241, 
+      "chgDoD": 197.8565
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afd5", 
+      "date": "2017-05-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1776.3208, 
+      "value": 177.9292, 
+      "pctChgDoD": -0.0091, 
+      "chgDoD": -16.2341
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afd6", 
+      "date": "2017-05-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1822.8871, 
+      "value": 182.5936, 
+      "pctChgDoD": 0.0262, 
+      "chgDoD": 46.5663
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afd7", 
+      "date": "2017-05-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1794.54, 
+      "value": 179.7542, 
+      "pctChgDoD": -0.0156, 
+      "chgDoD": -28.3471
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afd8", 
+      "date": "2017-05-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1836.5505, 
+      "value": 183.9623, 
+      "pctChgDoD": 0.0234, 
+      "chgDoD": 42.0105
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afd9", 
+      "date": "2017-05-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1851.1102, 
+      "value": 185.4207, 
+      "pctChgDoD": 0.0079, 
+      "chgDoD": 14.5597
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afda", 
+      "date": "2017-05-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1851.7609, 
+      "value": 185.4858, 
+      "pctChgDoD": 0.0004, 
+      "chgDoD": 0.6507
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afdb", 
+      "date": "2017-05-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1888.2851, 
+      "value": 189.1444, 
+      "pctChgDoD": 0.0197, 
+      "chgDoD": 36.5242
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afdc", 
+      "date": "2017-05-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1809.4666, 
+      "value": 181.2493, 
+      "pctChgDoD": -0.0417, 
+      "chgDoD": -78.8185
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afdd", 
+      "date": "2017-05-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1874.4715, 
+      "value": 187.7607, 
+      "pctChgDoD": 0.0359, 
+      "chgDoD": 65.0049
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afde", 
+      "date": "2017-05-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1876.1161, 
+      "value": 187.9254, 
+      "pctChgDoD": 0.0009, 
+      "chgDoD": 1.6446
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afdf", 
+      "date": "2017-05-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1854.5187, 
+      "value": 185.7621, 
+      "pctChgDoD": -0.0115, 
+      "chgDoD": -21.5974
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afe0", 
+      "date": "2017-05-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1822.7277, 
+      "value": 182.5777, 
+      "pctChgDoD": -0.0171, 
+      "chgDoD": -31.791
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afe1", 
+      "date": "2017-05-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1883.0045, 
+      "value": 188.6154, 
+      "pctChgDoD": 0.0331, 
+      "chgDoD": 60.2768
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afe2", 
+      "date": "2017-05-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 1979.9668, 
+      "value": 198.3279, 
+      "pctChgDoD": 0.0515, 
+      "chgDoD": 96.9623
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afe3", 
+      "date": "2017-05-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 2358.797, 
+      "value": 236.2743, 
+      "pctChgDoD": 0.1913, 
+      "chgDoD": 378.8302
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afe4", 
+      "date": "2017-05-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 2380.7383, 
+      "value": 238.4721, 
+      "pctChgDoD": 0.0093, 
+      "chgDoD": 21.9413
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afe5", 
+      "date": "2017-05-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 2671.1631, 
+      "value": 267.5631, 
+      "pctChgDoD": 0.122, 
+      "chgDoD": 290.4248
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afe6", 
+      "date": "2017-05-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 2904.9858, 
+      "value": 290.9845, 
+      "pctChgDoD": 0.0875, 
+      "chgDoD": 233.8227
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afe7", 
+      "date": "2017-05-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3060.5736, 
+      "value": 306.5693, 
+      "pctChgDoD": 0.0536, 
+      "chgDoD": 155.5878
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afe8", 
+      "date": "2017-05-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3207.4997, 
+      "value": 321.2865, 
+      "pctChgDoD": 0.048, 
+      "chgDoD": 146.9261
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afe9", 
+      "date": "2017-05-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 2977.4046, 
+      "value": 298.2385, 
+      "pctChgDoD": -0.0717, 
+      "chgDoD": -230.0951
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afea", 
+      "date": "2017-05-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 2782.1356, 
+      "value": 278.679, 
+      "pctChgDoD": -0.0656, 
+      "chgDoD": -195.269
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afeb", 
+      "date": "2017-05-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 2668.1168, 
+      "value": 267.258, 
+      "pctChgDoD": -0.041, 
+      "chgDoD": -114.0188
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afec", 
+      "date": "2017-05-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 2858.106, 
+      "value": 286.2887, 
+      "pctChgDoD": 0.0712, 
+      "chgDoD": 189.9892
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afed", 
+      "date": "2017-05-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3155.2545, 
+      "value": 316.0533, 
+      "pctChgDoD": 0.104, 
+      "chgDoD": 297.1485
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afee", 
+      "date": "2017-05-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3481.7788, 
+      "value": 348.7603, 
+      "pctChgDoD": 0.1035, 
+      "chgDoD": 326.5243
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afef", 
+      "date": "2017-05-31T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3528.8556, 
+      "value": 353.4759, 
+      "pctChgDoD": 0.0135, 
+      "chgDoD": 47.0768
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28aff0", 
+      "date": "2017-06-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3509.778, 
+      "value": 351.5649, 
+      "pctChgDoD": -0.0054, 
+      "chgDoD": -19.0776
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28aff1", 
+      "date": "2017-06-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3580.7316, 
+      "value": 358.6721, 
+      "pctChgDoD": 0.0202, 
+      "chgDoD": 70.9536
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28aff2", 
+      "date": "2017-06-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3605.0015, 
+      "value": 361.1032, 
+      "pctChgDoD": 0.0068, 
+      "chgDoD": 24.2699
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28aff3", 
+      "date": "2017-06-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3767.8504, 
+      "value": 377.4153, 
+      "pctChgDoD": 0.0452, 
+      "chgDoD": 162.8489
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28aff4", 
+      "date": "2017-06-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3920.108, 
+      "value": 392.6666, 
+      "pctChgDoD": 0.0404, 
+      "chgDoD": 152.2576
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28aff5", 
+      "date": "2017-06-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4175.0838, 
+      "value": 418.2068, 
+      "pctChgDoD": 0.065, 
+      "chgDoD": 254.9758
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28aff6", 
+      "date": "2017-06-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4029.0436, 
+      "value": 403.5783, 
+      "pctChgDoD": -0.035, 
+      "chgDoD": -146.0402
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28aff7", 
+      "date": "2017-06-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4111.009, 
+      "value": 411.7886, 
+      "pctChgDoD": 0.0203, 
+      "chgDoD": 81.9654
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28aff8", 
+      "date": "2017-06-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4282.7462, 
+      "value": 428.991, 
+      "pctChgDoD": 0.0418, 
+      "chgDoD": 171.7372
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28aff9", 
+      "date": "2017-06-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4814.6898, 
+      "value": 482.2744, 
+      "pctChgDoD": 0.1242, 
+      "chgDoD": 531.9436
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28affa", 
+      "date": "2017-06-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4845.4847, 
+      "value": 485.359, 
+      "pctChgDoD": 0.0064, 
+      "chgDoD": 30.7949
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28affb", 
+      "date": "2017-06-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5108.6802, 
+      "value": 511.7226, 
+      "pctChgDoD": 0.0543, 
+      "chgDoD": 263.1955
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28affc", 
+      "date": "2017-06-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5119.316, 
+      "value": 512.788, 
+      "pctChgDoD": 0.0021, 
+      "chgDoD": 10.6358
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28affd", 
+      "date": "2017-06-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4661.8608, 
+      "value": 466.9659, 
+      "pctChgDoD": -0.0894, 
+      "chgDoD": -457.4552
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28affe", 
+      "date": "2017-06-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4654.1453, 
+      "value": 466.1931, 
+      "pctChgDoD": -0.0017, 
+      "chgDoD": -7.7155
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28afff", 
+      "date": "2017-06-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4759.0264, 
+      "value": 476.6987, 
+      "pctChgDoD": 0.0225, 
+      "chgDoD": 104.8811
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b000", 
+      "date": "2017-06-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4931.5953, 
+      "value": 493.9845, 
+      "pctChgDoD": 0.0363, 
+      "chgDoD": 172.5689
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b001", 
+      "date": "2017-06-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4790.4065, 
+      "value": 479.842, 
+      "pctChgDoD": -0.0286, 
+      "chgDoD": -141.1888
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b002", 
+      "date": "2017-06-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4809.4587, 
+      "value": 481.7504, 
+      "pctChgDoD": 0.004, 
+      "chgDoD": 19.0522
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b003", 
+      "date": "2017-06-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4818.4664, 
+      "value": 482.6527, 
+      "pctChgDoD": 0.0019, 
+      "chgDoD": 9.0077
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b004", 
+      "date": "2017-06-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4619.8949, 
+      "value": 462.7623, 
+      "pctChgDoD": -0.0412, 
+      "chgDoD": -198.5715
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b005", 
+      "date": "2017-06-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4627.8336, 
+      "value": 463.5575, 
+      "pctChgDoD": 0.0017, 
+      "chgDoD": 7.9387
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b006", 
+      "date": "2017-06-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4699.0252, 
+      "value": 470.6886, 
+      "pctChgDoD": 0.0154, 
+      "chgDoD": 71.1916
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b007", 
+      "date": "2017-06-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4457.3179, 
+      "value": 446.4774, 
+      "pctChgDoD": -0.0514, 
+      "chgDoD": -241.7073
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b008", 
+      "date": "2017-06-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4281.7638, 
+      "value": 428.8926, 
+      "pctChgDoD": -0.0394, 
+      "chgDoD": -175.5541
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b009", 
+      "date": "2017-06-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3959.582, 
+      "value": 396.6206, 
+      "pctChgDoD": -0.0752, 
+      "chgDoD": -322.1818
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b00a", 
+      "date": "2017-06-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4174.5999, 
+      "value": 418.1583, 
+      "pctChgDoD": 0.0543, 
+      "chgDoD": 215.0179
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b00b", 
+      "date": "2017-06-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4465.991, 
+      "value": 447.3462, 
+      "pctChgDoD": 0.0698, 
+      "chgDoD": 291.3911
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b00c", 
+      "date": "2017-06-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4242.336, 
+      "value": 424.9433, 
+      "pctChgDoD": -0.0501, 
+      "chgDoD": -223.655
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b00d", 
+      "date": "2017-06-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4136.8601, 
+      "value": 414.378, 
+      "pctChgDoD": -0.0249, 
+      "chgDoD": -105.4759
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b00e", 
+      "date": "2017-07-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3942.6692, 
+      "value": 394.9265, 
+      "pctChgDoD": -0.0469, 
+      "chgDoD": -194.1909
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b00f", 
+      "date": "2017-07-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4114.7085, 
+      "value": 412.1592, 
+      "pctChgDoD": 0.0436, 
+      "chgDoD": 172.0393
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b010", 
+      "date": "2017-07-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4277.2825, 
+      "value": 428.4438, 
+      "pctChgDoD": 0.0395, 
+      "chgDoD": 162.574
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b011", 
+      "date": "2017-07-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4461.0305, 
+      "value": 446.8493, 
+      "pctChgDoD": 0.043, 
+      "chgDoD": 183.748
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b012", 
+      "date": "2017-07-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4346.3922, 
+      "value": 435.3663, 
+      "pctChgDoD": -0.0257, 
+      "chgDoD": -114.6383
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b013", 
+      "date": "2017-07-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4294.3213, 
+      "value": 430.1505, 
+      "pctChgDoD": -0.012, 
+      "chgDoD": -52.0709
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b014", 
+      "date": "2017-07-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3996.7704, 
+      "value": 400.3456, 
+      "pctChgDoD": -0.0693, 
+      "chgDoD": -297.5509
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b015", 
+      "date": "2017-07-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4125.7967, 
+      "value": 413.2698, 
+      "pctChgDoD": 0.0323, 
+      "chgDoD": 129.0263
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b016", 
+      "date": "2017-07-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3986.6965, 
+      "value": 399.3365, 
+      "pctChgDoD": -0.0337, 
+      "chgDoD": -139.1002
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b017", 
+      "date": "2017-07-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3631.4187, 
+      "value": 363.7493, 
+      "pctChgDoD": -0.0891, 
+      "chgDoD": -355.2778
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b018", 
+      "date": "2017-07-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3425.6694, 
+      "value": 343.14, 
+      "pctChgDoD": -0.0567, 
+      "chgDoD": -205.7493
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b019", 
+      "date": "2017-07-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3890.2458, 
+      "value": 389.6753, 
+      "pctChgDoD": 0.1356, 
+      "chgDoD": 464.5764
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b01a", 
+      "date": "2017-07-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3668.9456, 
+      "value": 367.5083, 
+      "pctChgDoD": -0.0569, 
+      "chgDoD": -221.3002
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b01b", 
+      "date": "2017-07-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3471.3538, 
+      "value": 347.7161, 
+      "pctChgDoD": -0.0539, 
+      "chgDoD": -197.5918
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b01c", 
+      "date": "2017-07-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3091.5074, 
+      "value": 309.6679, 
+      "pctChgDoD": -0.1094, 
+      "chgDoD": -379.8464
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b01d", 
+      "date": "2017-07-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 2930.7314, 
+      "value": 293.5634, 
+      "pctChgDoD": -0.052, 
+      "chgDoD": -160.776
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b01e", 
+      "date": "2017-07-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3417.2313, 
+      "value": 342.2948, 
+      "pctChgDoD": 0.166, 
+      "chgDoD": 486.4999
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b01f", 
+      "date": "2017-07-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3621.9787, 
+      "value": 362.8038, 
+      "pctChgDoD": 0.0599, 
+      "chgDoD": 204.7474
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b020", 
+      "date": "2017-07-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3333.5456, 
+      "value": 333.9122, 
+      "pctChgDoD": -0.0796, 
+      "chgDoD": -288.4331
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b021", 
+      "date": "2017-07-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3827.1303, 
+      "value": 383.3532, 
+      "pctChgDoD": 0.1481, 
+      "chgDoD": 493.5847
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b022", 
+      "date": "2017-07-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3728.6181, 
+      "value": 373.4855, 
+      "pctChgDoD": -0.0257, 
+      "chgDoD": -98.5122
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b023", 
+      "date": "2017-07-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3997.2382, 
+      "value": 400.3925, 
+      "pctChgDoD": 0.072, 
+      "chgDoD": 268.6201
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b024", 
+      "date": "2017-07-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3854.7462, 
+      "value": 386.1194, 
+      "pctChgDoD": -0.0356, 
+      "chgDoD": -142.492
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b025", 
+      "date": "2017-07-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3875.9051, 
+      "value": 388.2389, 
+      "pctChgDoD": 0.0055, 
+      "chgDoD": 21.1589
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b026", 
+      "date": "2017-07-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3625.2654, 
+      "value": 363.133, 
+      "pctChgDoD": -0.0647, 
+      "chgDoD": -250.6397
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b027", 
+      "date": "2017-07-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3581.3588, 
+      "value": 358.735, 
+      "pctChgDoD": -0.0121, 
+      "chgDoD": -43.9066
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b028", 
+      "date": "2017-07-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3677.3288, 
+      "value": 368.348, 
+      "pctChgDoD": 0.0268, 
+      "chgDoD": 95.97
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b029", 
+      "date": "2017-07-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3602.7376, 
+      "value": 360.8764, 
+      "pctChgDoD": -0.0203, 
+      "chgDoD": -74.5912
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b02a", 
+      "date": "2017-07-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3658.3155, 
+      "value": 366.4435, 
+      "pctChgDoD": 0.0154, 
+      "chgDoD": 55.5779
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b02b", 
+      "date": "2017-07-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3558.2746, 
+      "value": 356.4227, 
+      "pctChgDoD": -0.0273, 
+      "chgDoD": -100.0409
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b02c", 
+      "date": "2017-07-31T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3681.6326, 
+      "value": 368.7791, 
+      "pctChgDoD": 0.0347, 
+      "chgDoD": 123.358
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b02d", 
+      "date": "2017-08-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3812.4243, 
+      "value": 381.8802, 
+      "pctChgDoD": 0.0355, 
+      "chgDoD": 130.7917
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b02e", 
+      "date": "2017-08-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3908.3822, 
+      "value": 391.492, 
+      "pctChgDoD": 0.0252, 
+      "chgDoD": 95.9579
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b02f", 
+      "date": "2017-08-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4012.9611, 
+      "value": 401.9674, 
+      "pctChgDoD": 0.0268, 
+      "chgDoD": 104.5789
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b030", 
+      "date": "2017-08-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4009.8097, 
+      "value": 401.6517, 
+      "pctChgDoD": -0.0008, 
+      "chgDoD": -3.1514
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b031", 
+      "date": "2017-08-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4331.0709, 
+      "value": 433.8316, 
+      "pctChgDoD": 0.0801, 
+      "chgDoD": 321.2612
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b032", 
+      "date": "2017-08-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4338.459, 
+      "value": 434.5716, 
+      "pctChgDoD": 0.0017, 
+      "chgDoD": 7.3881
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b033", 
+      "date": "2017-08-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4514.148, 
+      "value": 452.1699, 
+      "pctChgDoD": 0.0405, 
+      "chgDoD": 175.689
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b034", 
+      "date": "2017-08-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4698.1857, 
+      "value": 470.6045, 
+      "pctChgDoD": 0.0408, 
+      "chgDoD": 184.0377
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b035", 
+      "date": "2017-08-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4629.0877, 
+      "value": 463.6831, 
+      "pctChgDoD": -0.0147, 
+      "chgDoD": -69.098
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b036", 
+      "date": "2017-08-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4648.0619, 
+      "value": 465.5837, 
+      "pctChgDoD": 0.0041, 
+      "chgDoD": 18.9742
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b037", 
+      "date": "2017-08-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4755.2128, 
+      "value": 476.3167, 
+      "pctChgDoD": 0.0231, 
+      "chgDoD": 107.1509
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b038", 
+      "date": "2017-08-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4709.5332, 
+      "value": 471.7411, 
+      "pctChgDoD": -0.0096, 
+      "chgDoD": -45.6796
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b039", 
+      "date": "2017-08-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4593.5938, 
+      "value": 460.1278, 
+      "pctChgDoD": -0.0246, 
+      "chgDoD": -115.9394
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b03a", 
+      "date": "2017-08-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4650.7279, 
+      "value": 465.8508, 
+      "pctChgDoD": 0.0124, 
+      "chgDoD": 57.1341
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b03b", 
+      "date": "2017-08-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4474.7113, 
+      "value": 448.2197, 
+      "pctChgDoD": -0.0378, 
+      "chgDoD": -176.0166
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b03c", 
+      "date": "2017-08-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4621.8684, 
+      "value": 462.96, 
+      "pctChgDoD": 0.0329, 
+      "chgDoD": 147.1571
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b03d", 
+      "date": "2017-08-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4537.8629, 
+      "value": 454.5454, 
+      "pctChgDoD": -0.0182, 
+      "chgDoD": -84.0055
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b03e", 
+      "date": "2017-08-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4524.9112, 
+      "value": 453.248, 
+      "pctChgDoD": -0.0029, 
+      "chgDoD": -12.9517
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b03f", 
+      "date": "2017-08-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4538.0577, 
+      "value": 454.5649, 
+      "pctChgDoD": 0.0029, 
+      "chgDoD": 13.1465
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b040", 
+      "date": "2017-08-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4610.6331, 
+      "value": 461.8346, 
+      "pctChgDoD": 0.016, 
+      "chgDoD": 72.5754
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b041", 
+      "date": "2017-08-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4753.9598, 
+      "value": 476.1912, 
+      "pctChgDoD": 0.0311, 
+      "chgDoD": 143.3267
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b042", 
+      "date": "2017-08-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4908.4437, 
+      "value": 491.6655, 
+      "pctChgDoD": 0.0325, 
+      "chgDoD": 154.4839
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b043", 
+      "date": "2017-08-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5074.8389, 
+      "value": 508.3328, 
+      "pctChgDoD": 0.0339, 
+      "chgDoD": 166.3952
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b044", 
+      "date": "2017-08-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5044.4211, 
+      "value": 505.2859, 
+      "pctChgDoD": -0.006, 
+      "chgDoD": -30.4178
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b045", 
+      "date": "2017-08-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5104.8394, 
+      "value": 511.3379, 
+      "pctChgDoD": 0.012, 
+      "chgDoD": 60.4183
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b046", 
+      "date": "2017-08-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5088.5183, 
+      "value": 509.703, 
+      "pctChgDoD": -0.0032, 
+      "chgDoD": -16.3211
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b047", 
+      "date": "2017-08-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5293.1948, 
+      "value": 530.2049, 
+      "pctChgDoD": 0.0402, 
+      "chgDoD": 204.6765
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b048", 
+      "date": "2017-08-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5390.3321, 
+      "value": 539.9349, 
+      "pctChgDoD": 0.0184, 
+      "chgDoD": 97.1373
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b049", 
+      "date": "2017-08-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5510.2414, 
+      "value": 551.9459, 
+      "pctChgDoD": 0.0222, 
+      "chgDoD": 119.9093
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b04a", 
+      "date": "2017-08-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5614.3894, 
+      "value": 562.3781, 
+      "pctChgDoD": 0.0189, 
+      "chgDoD": 104.148
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b04b", 
+      "date": "2017-08-31T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 6036.9493, 
+      "value": 604.7048, 
+      "pctChgDoD": 0.0753, 
+      "chgDoD": 422.5599
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b04c", 
+      "date": "2017-09-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 6514.9643, 
+      "value": 652.5862, 
+      "pctChgDoD": 0.0792, 
+      "chgDoD": 478.015
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b04d", 
+      "date": "2017-09-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5941.9189, 
+      "value": 595.1859, 
+      "pctChgDoD": -0.088, 
+      "chgDoD": -573.0454
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b04e", 
+      "date": "2017-09-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5882.9502, 
+      "value": 589.2791, 
+      "pctChgDoD": -0.0099, 
+      "chgDoD": -58.9687
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b04f", 
+      "date": "2017-09-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5162.2076, 
+      "value": 517.0843, 
+      "pctChgDoD": -0.1225, 
+      "chgDoD": -720.7426
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b050", 
+      "date": "2017-09-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5443.7521, 
+      "value": 545.2858, 
+      "pctChgDoD": 0.0545, 
+      "chgDoD": 281.5445
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b051", 
+      "date": "2017-09-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5883.9703, 
+      "value": 589.3813, 
+      "pctChgDoD": 0.0809, 
+      "chgDoD": 440.2182
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b052", 
+      "date": "2017-09-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5751.2664, 
+      "value": 576.0887, 
+      "pctChgDoD": -0.0226, 
+      "chgDoD": -132.7039
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b053", 
+      "date": "2017-09-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5178.8006, 
+      "value": 518.7464, 
+      "pctChgDoD": -0.0995, 
+      "chgDoD": -572.4658
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b054", 
+      "date": "2017-09-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5123.3622, 
+      "value": 513.1933, 
+      "pctChgDoD": -0.0107, 
+      "chgDoD": -55.4384
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b055", 
+      "date": "2017-09-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4947.8973, 
+      "value": 495.6174, 
+      "pctChgDoD": -0.0342, 
+      "chgDoD": -175.4649
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b056", 
+      "date": "2017-09-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5065.5049, 
+      "value": 507.3978, 
+      "pctChgDoD": 0.0238, 
+      "chgDoD": 117.6076
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b057", 
+      "date": "2017-09-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4986.7929, 
+      "value": 499.5135, 
+      "pctChgDoD": -0.0155, 
+      "chgDoD": -78.712
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b058", 
+      "date": "2017-09-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4756.5507, 
+      "value": 476.4507, 
+      "pctChgDoD": -0.0462, 
+      "chgDoD": -230.2422
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b059", 
+      "date": "2017-09-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 3529.9908, 
+      "value": 353.5896, 
+      "pctChgDoD": -0.2579, 
+      "chgDoD": -1226.5599
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b05a", 
+      "date": "2017-09-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4108.3851, 
+      "value": 411.5258, 
+      "pctChgDoD": 0.1639, 
+      "chgDoD": 578.3943
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b05b", 
+      "date": "2017-09-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4057.1126, 
+      "value": 406.3899, 
+      "pctChgDoD": -0.0125, 
+      "chgDoD": -51.2725
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b05c", 
+      "date": "2017-09-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4054.4479, 
+      "value": 406.123, 
+      "pctChgDoD": -0.0007, 
+      "chgDoD": -2.6647
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b05d", 
+      "date": "2017-09-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4649.809, 
+      "value": 465.7587, 
+      "pctChgDoD": 0.1468, 
+      "chgDoD": 595.3611
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b05e", 
+      "date": "2017-09-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4478.9438, 
+      "value": 448.6436, 
+      "pctChgDoD": -0.0367, 
+      "chgDoD": -170.8652
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b05f", 
+      "date": "2017-09-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4424.0482, 
+      "value": 443.1449, 
+      "pctChgDoD": -0.0123, 
+      "chgDoD": -54.8956
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b060", 
+      "date": "2017-09-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4056.2335, 
+      "value": 406.3019, 
+      "pctChgDoD": -0.0831, 
+      "chgDoD": -367.8147
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b061", 
+      "date": "2017-09-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4107.1876, 
+      "value": 411.4058, 
+      "pctChgDoD": 0.0126, 
+      "chgDoD": 50.9541
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b062", 
+      "date": "2017-09-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4293.4189, 
+      "value": 430.0601, 
+      "pctChgDoD": 0.0453, 
+      "chgDoD": 186.2313
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b063", 
+      "date": "2017-09-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4200.6044, 
+      "value": 420.7631, 
+      "pctChgDoD": -0.0216, 
+      "chgDoD": -92.8145
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b064", 
+      "date": "2017-09-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4431.2758, 
+      "value": 443.8688, 
+      "pctChgDoD": 0.0549, 
+      "chgDoD": 230.6714
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b065", 
+      "date": "2017-09-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4436.154, 
+      "value": 444.3575, 
+      "pctChgDoD": 0.0011, 
+      "chgDoD": 4.8782
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b066", 
+      "date": "2017-09-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4810.315, 
+      "value": 481.8362, 
+      "pctChgDoD": 0.0843, 
+      "chgDoD": 374.161
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b067", 
+      "date": "2017-09-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4712.6111, 
+      "value": 472.0494, 
+      "pctChgDoD": -0.0203, 
+      "chgDoD": -97.7039
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b068", 
+      "date": "2017-09-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4646.1522, 
+      "value": 465.3924, 
+      "pctChgDoD": -0.0141, 
+      "chgDoD": -66.4589
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b069", 
+      "date": "2017-09-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4777.0608, 
+      "value": 478.5052, 
+      "pctChgDoD": 0.0282, 
+      "chgDoD": 130.9086
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b06a", 
+      "date": "2017-10-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4849.853, 
+      "value": 485.7966, 
+      "pctChgDoD": 0.0152, 
+      "chgDoD": 72.7922
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b06b", 
+      "date": "2017-10-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4715.3465, 
+      "value": 472.3234, 
+      "pctChgDoD": -0.0277, 
+      "chgDoD": -134.5065
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b06c", 
+      "date": "2017-10-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4611.1213, 
+      "value": 461.8835, 
+      "pctChgDoD": -0.0221, 
+      "chgDoD": -104.2252
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b06d", 
+      "date": "2017-10-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4615.5241, 
+      "value": 462.3245, 
+      "pctChgDoD": 0.001, 
+      "chgDoD": 4.4028
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b06e", 
+      "date": "2017-10-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4688.6823, 
+      "value": 469.6525, 
+      "pctChgDoD": 0.0159, 
+      "chgDoD": 73.1582
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b06f", 
+      "date": "2017-10-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4681.6687, 
+      "value": 468.95, 
+      "pctChgDoD": -0.0015, 
+      "chgDoD": -7.0136
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b070", 
+      "date": "2017-10-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4767.6542, 
+      "value": 477.563, 
+      "pctChgDoD": 0.0184, 
+      "chgDoD": 85.9855
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b071", 
+      "date": "2017-10-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4826.3562, 
+      "value": 483.443, 
+      "pctChgDoD": 0.0123, 
+      "chgDoD": 58.702
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b072", 
+      "date": "2017-10-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4618.2187, 
+      "value": 462.5944, 
+      "pctChgDoD": -0.0431, 
+      "chgDoD": -208.1375
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b073", 
+      "date": "2017-10-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4730.5345, 
+      "value": 473.8448, 
+      "pctChgDoD": 0.0243, 
+      "chgDoD": 112.3158
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b074", 
+      "date": "2017-10-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4794.2058, 
+      "value": 480.2226, 
+      "pctChgDoD": 0.0135, 
+      "chgDoD": 63.6713
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b075", 
+      "date": "2017-10-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4839.7202, 
+      "value": 484.7816, 
+      "pctChgDoD": 0.0095, 
+      "chgDoD": 45.5144
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b076", 
+      "date": "2017-10-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5071.3478, 
+      "value": 507.9831, 
+      "pctChgDoD": 0.0479, 
+      "chgDoD": 231.6276
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b077", 
+      "date": "2017-10-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5178.6743, 
+      "value": 518.7337, 
+      "pctChgDoD": 0.0212, 
+      "chgDoD": 107.3265
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b078", 
+      "date": "2017-10-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5142.2028, 
+      "value": 515.0805, 
+      "pctChgDoD": -0.007, 
+      "chgDoD": -36.4715
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b079", 
+      "date": "2017-10-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5148.0431, 
+      "value": 515.6655, 
+      "pctChgDoD": 0.0011, 
+      "chgDoD": 5.8403
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b07a", 
+      "date": "2017-10-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4946.5389, 
+      "value": 495.4813, 
+      "pctChgDoD": -0.0391, 
+      "chgDoD": -201.5042
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b07b", 
+      "date": "2017-10-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4892.7448, 
+      "value": 490.0929, 
+      "pctChgDoD": -0.0109, 
+      "chgDoD": -53.7941
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b07c", 
+      "date": "2017-10-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4845.7461, 
+      "value": 485.3852, 
+      "pctChgDoD": -0.0096, 
+      "chgDoD": -46.9987
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b07d", 
+      "date": "2017-10-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4813.6993, 
+      "value": 482.1752, 
+      "pctChgDoD": -0.0066, 
+      "chgDoD": -32.0468
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b07e", 
+      "date": "2017-10-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4738.4924, 
+      "value": 474.6419, 
+      "pctChgDoD": -0.0156, 
+      "chgDoD": -75.2069
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b07f", 
+      "date": "2017-10-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4676.0276, 
+      "value": 468.385, 
+      "pctChgDoD": -0.0132, 
+      "chgDoD": -62.4648
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b080", 
+      "date": "2017-10-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4571.48, 
+      "value": 457.9127, 
+      "pctChgDoD": -0.0224, 
+      "chgDoD": -104.5476
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b081", 
+      "date": "2017-10-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4713.9998, 
+      "value": 472.1885, 
+      "pctChgDoD": 0.0312, 
+      "chgDoD": 142.5198
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b082", 
+      "date": "2017-10-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4710.4852, 
+      "value": 471.8365, 
+      "pctChgDoD": -0.0007, 
+      "chgDoD": -3.5146
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b083", 
+      "date": "2017-10-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4661.1166, 
+      "value": 466.8914, 
+      "pctChgDoD": -0.0105, 
+      "chgDoD": -49.3686
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b084", 
+      "date": "2017-10-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4627.3235, 
+      "value": 463.5064, 
+      "pctChgDoD": -0.0073, 
+      "chgDoD": -33.7931
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b085", 
+      "date": "2017-10-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4564.9271, 
+      "value": 457.2563, 
+      "pctChgDoD": -0.0135, 
+      "chgDoD": -62.3964
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b086", 
+      "date": "2017-10-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4721.0223, 
+      "value": 472.892, 
+      "pctChgDoD": 0.0342, 
+      "chgDoD": 156.0952
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b087", 
+      "date": "2017-10-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4721.9167, 
+      "value": 472.9816, 
+      "pctChgDoD": 0.0002, 
+      "chgDoD": 0.8944
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b088", 
+      "date": "2017-10-31T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4681.5531, 
+      "value": 468.9384, 
+      "pctChgDoD": -0.0085, 
+      "chgDoD": -40.3636
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b089", 
+      "date": "2017-11-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4537.8868, 
+      "value": 454.5478, 
+      "pctChgDoD": -0.0307, 
+      "chgDoD": -143.6663
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b08a", 
+      "date": "2017-11-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4606.2675, 
+      "value": 461.3973, 
+      "pctChgDoD": 0.0151, 
+      "chgDoD": 68.3807
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b08b", 
+      "date": "2017-11-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4783.1728, 
+      "value": 479.1174, 
+      "pctChgDoD": 0.0384, 
+      "chgDoD": 176.9053
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b08c", 
+      "date": "2017-11-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4703.1066, 
+      "value": 471.0974, 
+      "pctChgDoD": -0.0167, 
+      "chgDoD": -80.0662
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b08d", 
+      "date": "2017-11-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4687.3364, 
+      "value": 469.5177, 
+      "pctChgDoD": -0.0034, 
+      "chgDoD": -15.7702
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b08e", 
+      "date": "2017-11-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4747.717, 
+      "value": 475.5659, 
+      "pctChgDoD": 0.0129, 
+      "chgDoD": 60.3806
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b08f", 
+      "date": "2017-11-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 4872.9493, 
+      "value": 488.1101, 
+      "pctChgDoD": 0.0264, 
+      "chgDoD": 125.2323
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b090", 
+      "date": "2017-11-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5249.1029, 
+      "value": 525.7884, 
+      "pctChgDoD": 0.0772, 
+      "chgDoD": 376.1536
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b091", 
+      "date": "2017-11-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5498.6919, 
+      "value": 550.789, 
+      "pctChgDoD": 0.0475, 
+      "chgDoD": 249.589
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b092", 
+      "date": "2017-11-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5147.0182, 
+      "value": 515.5628, 
+      "pctChgDoD": -0.064, 
+      "chgDoD": -351.6737
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b093", 
+      "date": "2017-11-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5452.9114, 
+      "value": 546.2033, 
+      "pctChgDoD": 0.0594, 
+      "chgDoD": 305.8932
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b094", 
+      "date": "2017-11-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5671.8915, 
+      "value": 568.1379, 
+      "pctChgDoD": 0.0402, 
+      "chgDoD": 218.9801
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b095", 
+      "date": "2017-11-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5583.7253, 
+      "value": 559.3066, 
+      "pctChgDoD": -0.0155, 
+      "chgDoD": -88.1662
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b096", 
+      "date": "2017-11-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 5715.1644, 
+      "value": 572.4725, 
+      "pctChgDoD": 0.0235, 
+      "chgDoD": 131.4391
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b097", 
+      "date": "2017-11-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 6097.9911, 
+      "value": 610.8192, 
+      "pctChgDoD": 0.067, 
+      "chgDoD": 382.8267
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b098", 
+      "date": "2017-11-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 6345.6991, 
+      "value": 635.6314, 
+      "pctChgDoD": 0.0406, 
+      "chgDoD": 247.708
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b099", 
+      "date": "2017-11-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 6233.0864, 
+      "value": 624.3513, 
+      "pctChgDoD": -0.0177, 
+      "chgDoD": -112.6127
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b09a", 
+      "date": "2017-11-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 6446.3966, 
+      "value": 645.718, 
+      "pctChgDoD": 0.0342, 
+      "chgDoD": 213.3102
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b09b", 
+      "date": "2017-11-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 6583.3338, 
+      "value": 659.4346, 
+      "pctChgDoD": 0.0212, 
+      "chgDoD": 136.9372
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b09c", 
+      "date": "2017-11-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 6990.6672, 
+      "value": 700.2361, 
+      "pctChgDoD": 0.0619, 
+      "chgDoD": 407.3334
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b09d", 
+      "date": "2017-11-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 6757.9122, 
+      "value": 676.9217, 
+      "pctChgDoD": -0.0333, 
+      "chgDoD": -232.755
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b09e", 
+      "date": "2017-11-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 7088.0748, 
+      "value": 709.9932, 
+      "pctChgDoD": 0.0489, 
+      "chgDoD": 330.1626
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b09f", 
+      "date": "2017-11-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 6933.5819, 
+      "value": 694.518, 
+      "pctChgDoD": -0.0218, 
+      "chgDoD": -154.4929
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0a0", 
+      "date": "2017-11-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 7181.4523, 
+      "value": 719.3465, 
+      "pctChgDoD": 0.0357, 
+      "chgDoD": 247.8704
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0a1", 
+      "date": "2017-11-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 7626.3171, 
+      "value": 763.9074, 
+      "pctChgDoD": 0.0619, 
+      "chgDoD": 444.8648
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0a2", 
+      "date": "2017-11-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 7635.4937, 
+      "value": 764.8266, 
+      "pctChgDoD": 0.0012, 
+      "chgDoD": 9.1766
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0a3", 
+      "date": "2017-11-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 8215.0162, 
+      "value": 822.8758, 
+      "pctChgDoD": 0.0759, 
+      "chgDoD": 579.5225
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0a4", 
+      "date": "2017-11-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 9319.0235, 
+      "value": 933.4612, 
+      "pctChgDoD": 0.1344, 
+      "chgDoD": 1104.0073
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0a5", 
+      "date": "2017-11-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 8445.1466, 
+      "value": 845.9274, 
+      "pctChgDoD": -0.0938, 
+      "chgDoD": -873.8769
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0a6", 
+      "date": "2017-11-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 9018.1165, 
+      "value": 903.3202, 
+      "pctChgDoD": 0.0678, 
+      "chgDoD": 572.9699
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0a7", 
+      "date": "2017-12-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 9567.772, 
+      "value": 958.3777, 
+      "pctChgDoD": 0.061, 
+      "chgDoD": 549.6555
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0a8", 
+      "date": "2017-12-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 9618.2015, 
+      "value": 963.4291, 
+      "pctChgDoD": 0.0053, 
+      "chgDoD": 50.4295
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0a9", 
+      "date": "2017-12-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 10187.0371, 
+      "value": 1020.4078, 
+      "pctChgDoD": 0.0591, 
+      "chgDoD": 568.8356
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0aa", 
+      "date": "2017-12-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 11183.1222, 
+      "value": 1120.1829, 
+      "pctChgDoD": 0.0978, 
+      "chgDoD": 996.0851
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ab", 
+      "date": "2017-12-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12205.749, 
+      "value": 1222.6167, 
+      "pctChgDoD": 0.0914, 
+      "chgDoD": 1022.6268
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ac", 
+      "date": "2017-12-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12515.7296, 
+      "value": 1253.6666, 
+      "pctChgDoD": 0.0254, 
+      "chgDoD": 309.9806
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ad", 
+      "date": "2017-12-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12496.5685, 
+      "value": 1251.7473, 
+      "pctChgDoD": -0.0015, 
+      "chgDoD": -19.1611
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ae", 
+      "date": "2017-12-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 16087.1549, 
+      "value": 1611.4065, 
+      "pctChgDoD": 0.2873, 
+      "chgDoD": 3590.5864
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0af", 
+      "date": "2017-12-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14922.0583, 
+      "value": 1494.702, 
+      "pctChgDoD": -0.0724, 
+      "chgDoD": -1165.0966
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0b0", 
+      "date": "2017-12-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 13860.9587, 
+      "value": 1388.4145, 
+      "pctChgDoD": -0.0711, 
+      "chgDoD": -1061.0996
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0b1", 
+      "date": "2017-12-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 16056.5538, 
+      "value": 1608.3413, 
+      "pctChgDoD": 0.1584, 
+      "chgDoD": 2195.5951
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0b2", 
+      "date": "2017-12-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 19532.3515, 
+      "value": 1956.5025, 
+      "pctChgDoD": 0.2165, 
+      "chgDoD": 3475.7977
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0b3", 
+      "date": "2017-12-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 19162.2111, 
+      "value": 1919.4266, 
+      "pctChgDoD": -0.019, 
+      "chgDoD": -370.1404
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0b4", 
+      "date": "2017-12-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21234.2532, 
+      "value": 2126.9774, 
+      "pctChgDoD": 0.1081, 
+      "chgDoD": 2072.0421
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0b5", 
+      "date": "2017-12-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20992.3553, 
+      "value": 2102.7471, 
+      "pctChgDoD": -0.0114, 
+      "chgDoD": -241.8979
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0b6", 
+      "date": "2017-12-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21542.9769, 
+      "value": 2157.9014, 
+      "pctChgDoD": 0.0262, 
+      "chgDoD": 550.6216
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0b7", 
+      "date": "2017-12-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22310.9526, 
+      "value": 2234.8274, 
+      "pctChgDoD": 0.0356, 
+      "chgDoD": 767.9757
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0b8", 
+      "date": "2017-12-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 24641.4984, 
+      "value": 2468.2719, 
+      "pctChgDoD": 0.1045, 
+      "chgDoD": 2330.5458
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0b9", 
+      "date": "2017-12-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 26176.9227, 
+      "value": 2622.0711, 
+      "pctChgDoD": 0.0623, 
+      "chgDoD": 1535.4243
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ba", 
+      "date": "2017-12-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 25660.6715, 
+      "value": 2570.3596, 
+      "pctChgDoD": -0.0197, 
+      "chgDoD": -516.2512
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0bb", 
+      "date": "2017-12-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 28012.4407, 
+      "value": 2805.93, 
+      "pctChgDoD": 0.0916, 
+      "chgDoD": 2351.7692
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0bc", 
+      "date": "2017-12-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 23380.4161, 
+      "value": 2341.9527, 
+      "pctChgDoD": -0.1654, 
+      "chgDoD": -4632.0246
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0bd", 
+      "date": "2017-12-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 25050.9127, 
+      "value": 2509.2818, 
+      "pctChgDoD": 0.0714, 
+      "chgDoD": 1670.4966
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0be", 
+      "date": "2017-12-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 24381.6427, 
+      "value": 2442.2428, 
+      "pctChgDoD": -0.0267, 
+      "chgDoD": -669.27
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0bf", 
+      "date": "2017-12-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 24828.6861, 
+      "value": 2487.0219, 
+      "pctChgDoD": 0.0183, 
+      "chgDoD": 447.0434
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0c0", 
+      "date": "2017-12-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 25905.4062, 
+      "value": 2594.8741, 
+      "pctChgDoD": 0.0434, 
+      "chgDoD": 1076.7201
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0c1", 
+      "date": "2017-12-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 26401.7721, 
+      "value": 2644.5937, 
+      "pctChgDoD": 0.0192, 
+      "chgDoD": 496.3659
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0c2", 
+      "date": "2017-12-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 25721.1008, 
+      "value": 2576.4127, 
+      "pctChgDoD": -0.0258, 
+      "chgDoD": -680.6713
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0c3", 
+      "date": "2017-12-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 30729.19, 
+      "value": 3078.0594, 
+      "pctChgDoD": 0.1947, 
+      "chgDoD": 5008.0892
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0c4", 
+      "date": "2017-12-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 28453.5599, 
+      "value": 2850.1157, 
+      "pctChgDoD": -0.0741, 
+      "chgDoD": -2275.6301
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0c5", 
+      "date": "2017-12-31T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 30504.1152, 
+      "value": 3055.5142, 
+      "pctChgDoD": 0.0721, 
+      "chgDoD": 2050.5553
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0c6", 
+      "date": "2018-01-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 31384.167, 
+      "value": 3143.6666, 
+      "pctChgDoD": 0.0289, 
+      "chgDoD": 880.0518
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0c7", 
+      "date": "2018-01-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 34424.6814, 
+      "value": 3448.2267, 
+      "pctChgDoD": 0.0969, 
+      "chgDoD": 3040.5144
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0c8", 
+      "date": "2018-01-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 40095.003, 
+      "value": 4016.2074, 
+      "pctChgDoD": 0.1647, 
+      "chgDoD": 5670.3216
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0c9", 
+      "date": "2018-01-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 39244.6915, 
+      "value": 3931.034, 
+      "pctChgDoD": -0.0212, 
+      "chgDoD": -850.3115
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ca", 
+      "date": "2018-01-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 38216.1614, 
+      "value": 3828.0089, 
+      "pctChgDoD": -0.0262, 
+      "chgDoD": -1028.5301
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0cb", 
+      "date": "2018-01-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 41114.597, 
+      "value": 4118.3373, 
+      "pctChgDoD": 0.0758, 
+      "chgDoD": 2898.4356
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0cc", 
+      "date": "2018-01-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 42033.4626, 
+      "value": 4210.3776, 
+      "pctChgDoD": 0.0223, 
+      "chgDoD": 918.8656
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0cd", 
+      "date": "2018-01-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 36867.0814, 
+      "value": 3692.8752, 
+      "pctChgDoD": -0.1229, 
+      "chgDoD": -5166.3812
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ce", 
+      "date": "2018-01-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 35735.4727, 
+      "value": 3579.5251, 
+      "pctChgDoD": -0.0307, 
+      "chgDoD": -1131.6087
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0cf", 
+      "date": "2018-01-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 36390.7891, 
+      "value": 3645.1663, 
+      "pctChgDoD": 0.0183, 
+      "chgDoD": 655.3164
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0d0", 
+      "date": "2018-01-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 33353.1099, 
+      "value": 3340.8903, 
+      "pctChgDoD": -0.0835, 
+      "chgDoD": -3037.6792
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0d1", 
+      "date": "2018-01-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 37271.1316, 
+      "value": 3733.3479, 
+      "pctChgDoD": 0.1175, 
+      "chgDoD": 3918.0217
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0d2", 
+      "date": "2018-01-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 39351.4434, 
+      "value": 3941.727, 
+      "pctChgDoD": 0.0558, 
+      "chgDoD": 2080.3118
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0d3", 
+      "date": "2018-01-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 36449.2357, 
+      "value": 3651.0208, 
+      "pctChgDoD": -0.0738, 
+      "chgDoD": -2902.2077
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0d4", 
+      "date": "2018-01-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 35124.9389, 
+      "value": 3518.3696, 
+      "pctChgDoD": -0.0363, 
+      "chgDoD": -1324.2968
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0d5", 
+      "date": "2018-01-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 27327.6406, 
+      "value": 2737.3354, 
+      "pctChgDoD": -0.222, 
+      "chgDoD": -7797.2983
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0d6", 
+      "date": "2018-01-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 27542.8756, 
+      "value": 2758.8949, 
+      "pctChgDoD": 0.0079, 
+      "chgDoD": 215.235
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0d7", 
+      "date": "2018-01-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 28707.1875, 
+      "value": 2875.5209, 
+      "pctChgDoD": 0.0423, 
+      "chgDoD": 1164.3119
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0d8", 
+      "date": "2018-01-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 29243.9686, 
+      "value": 2929.2888, 
+      "pctChgDoD": 0.0187, 
+      "chgDoD": 536.7811
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0d9", 
+      "date": "2018-01-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 32861.4074, 
+      "value": 3291.6378, 
+      "pctChgDoD": 0.1237, 
+      "chgDoD": 3617.4388
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0da", 
+      "date": "2018-01-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 29134.828, 
+      "value": 2918.3565, 
+      "pctChgDoD": -0.1134, 
+      "chgDoD": -3726.5794
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0db", 
+      "date": "2018-01-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 27831.389, 
+      "value": 2787.7945, 
+      "pctChgDoD": -0.0447, 
+      "chgDoD": -1303.439
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0dc", 
+      "date": "2018-01-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 27310.2764, 
+      "value": 2735.5961, 
+      "pctChgDoD": -0.0187, 
+      "chgDoD": -521.1126
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0dd", 
+      "date": "2018-01-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 28739.599, 
+      "value": 2878.7674, 
+      "pctChgDoD": 0.0523, 
+      "chgDoD": 1429.3226
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0de", 
+      "date": "2018-01-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 29056.8244, 
+      "value": 2910.543, 
+      "pctChgDoD": 0.011, 
+      "chgDoD": 317.2254
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0df", 
+      "date": "2018-01-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 28695.8365, 
+      "value": 2874.3839, 
+      "pctChgDoD": -0.0124, 
+      "chgDoD": -360.9879
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0e0", 
+      "date": "2018-01-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 29407.1071, 
+      "value": 2945.6299, 
+      "pctChgDoD": 0.0248, 
+      "chgDoD": 711.2706
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0e1", 
+      "date": "2018-01-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 31090.087, 
+      "value": 3114.2094, 
+      "pctChgDoD": 0.0572, 
+      "chgDoD": 1682.9799
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0e2", 
+      "date": "2018-01-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 29322.2506, 
+      "value": 2937.1301, 
+      "pctChgDoD": -0.0569, 
+      "chgDoD": -1767.8364
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0e3", 
+      "date": "2018-01-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 25365.2885, 
+      "value": 2540.7719, 
+      "pctChgDoD": -0.1349, 
+      "chgDoD": -3956.9621
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0e4", 
+      "date": "2018-01-31T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 26092.2723, 
+      "value": 2613.5919, 
+      "pctChgDoD": 0.0287, 
+      "chgDoD": 726.9838
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0e5", 
+      "date": "2018-02-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22434.8874, 
+      "value": 2247.2416, 
+      "pctChgDoD": -0.1402, 
+      "chgDoD": -3657.3849
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0e6", 
+      "date": "2018-02-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20967.0548, 
+      "value": 2100.2128, 
+      "pctChgDoD": -0.0654, 
+      "chgDoD": -1467.8326
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0e7", 
+      "date": "2018-02-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22617.2838, 
+      "value": 2265.5118, 
+      "pctChgDoD": 0.0787, 
+      "chgDoD": 1650.229
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0e8", 
+      "date": "2018-02-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 19985.1833, 
+      "value": 2001.8614, 
+      "pctChgDoD": -0.1164, 
+      "chgDoD": -2632.1005
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0e9", 
+      "date": "2018-02-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 16608.9584, 
+      "value": 1663.6742, 
+      "pctChgDoD": -0.1689, 
+      "chgDoD": -3376.2249
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ea", 
+      "date": "2018-02-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 19113.3009, 
+      "value": 1914.5274, 
+      "pctChgDoD": 0.1508, 
+      "chgDoD": 2504.3425
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0eb", 
+      "date": "2018-02-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18229.1917, 
+      "value": 1825.9685, 
+      "pctChgDoD": -0.0463, 
+      "chgDoD": -884.1092
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ec", 
+      "date": "2018-02-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20336.3538, 
+      "value": 2037.0372, 
+      "pctChgDoD": 0.1156, 
+      "chgDoD": 2107.1621
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ed", 
+      "date": "2018-02-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22111.0131, 
+      "value": 2214.8, 
+      "pctChgDoD": 0.0873, 
+      "chgDoD": 1774.6593
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ee", 
+      "date": "2018-02-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21875.9945, 
+      "value": 2191.2589, 
+      "pctChgDoD": -0.0106, 
+      "chgDoD": -235.0186
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ef", 
+      "date": "2018-02-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20308.0545, 
+      "value": 2034.2026, 
+      "pctChgDoD": -0.0717, 
+      "chgDoD": -1567.94
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0f0", 
+      "date": "2018-02-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21814.3041, 
+      "value": 2185.0795, 
+      "pctChgDoD": 0.0742, 
+      "chgDoD": 1506.2496
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0f1", 
+      "date": "2018-02-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21213.8719, 
+      "value": 2124.9358, 
+      "pctChgDoD": -0.0275, 
+      "chgDoD": -600.4322
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0f2", 
+      "date": "2018-02-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 23975.9221, 
+      "value": 2401.6029, 
+      "pctChgDoD": 0.1302, 
+      "chgDoD": 2762.0502
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0f3", 
+      "date": "2018-02-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 24778.8691, 
+      "value": 2482.0319, 
+      "pctChgDoD": 0.0335, 
+      "chgDoD": 802.947
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0f4", 
+      "date": "2018-02-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 24987.9966, 
+      "value": 2502.9796, 
+      "pctChgDoD": 0.0084, 
+      "chgDoD": 209.1275
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0f5", 
+      "date": "2018-02-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 26065.9976, 
+      "value": 2610.9601, 
+      "pctChgDoD": 0.0431, 
+      "chgDoD": 1078.001
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0f6", 
+      "date": "2018-02-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 24240.3373, 
+      "value": 2428.0886, 
+      "pctChgDoD": -0.07, 
+      "chgDoD": -1825.6603
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0f7", 
+      "date": "2018-02-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 25060.05, 
+      "value": 2510.197, 
+      "pctChgDoD": 0.0338, 
+      "chgDoD": 819.7127
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0f8", 
+      "date": "2018-02-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 23995.2486, 
+      "value": 2403.5388, 
+      "pctChgDoD": -0.0425, 
+      "chgDoD": -1064.8014
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0f9", 
+      "date": "2018-02-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22922.3013, 
+      "value": 2296.0646, 
+      "pctChgDoD": -0.0447, 
+      "chgDoD": -1072.9473
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0fa", 
+      "date": "2018-02-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21174.5667, 
+      "value": 2120.9987, 
+      "pctChgDoD": -0.0762, 
+      "chgDoD": -1747.7346
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0fb", 
+      "date": "2018-02-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22051.9173, 
+      "value": 2208.8806, 
+      "pctChgDoD": 0.0414, 
+      "chgDoD": 877.3506
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0fc", 
+      "date": "2018-02-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21156.7001, 
+      "value": 2119.2091, 
+      "pctChgDoD": -0.0406, 
+      "chgDoD": -895.2172
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0fd", 
+      "date": "2018-02-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21346.6535, 
+      "value": 2138.2362, 
+      "pctChgDoD": 0.009, 
+      "chgDoD": 189.9534
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0fe", 
+      "date": "2018-02-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21968.3796, 
+      "value": 2200.5128, 
+      "pctChgDoD": 0.0291, 
+      "chgDoD": 621.7261
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b0ff", 
+      "date": "2018-02-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22181.2853, 
+      "value": 2221.839, 
+      "pctChgDoD": 0.0097, 
+      "chgDoD": 212.9057
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b100", 
+      "date": "2018-02-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21167.4057, 
+      "value": 2120.2814, 
+      "pctChgDoD": -0.0457, 
+      "chgDoD": -1013.8796
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b101", 
+      "date": "2018-03-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22073.7956, 
+      "value": 2211.072, 
+      "pctChgDoD": 0.0428, 
+      "chgDoD": 906.3899
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b102", 
+      "date": "2018-03-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21742.3431, 
+      "value": 2177.8714, 
+      "pctChgDoD": -0.015, 
+      "chgDoD": -331.4525
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b103", 
+      "date": "2018-03-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21884.8009, 
+      "value": 2192.141, 
+      "pctChgDoD": 0.0066, 
+      "chgDoD": 142.4578
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b104", 
+      "date": "2018-03-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22347.1362, 
+      "value": 2238.4518, 
+      "pctChgDoD": 0.0211, 
+      "chgDoD": 462.3353
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b105", 
+      "date": "2018-03-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22060.2643, 
+      "value": 2209.7167, 
+      "pctChgDoD": -0.0128, 
+      "chgDoD": -286.8719
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b106", 
+      "date": "2018-03-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20743.8594, 
+      "value": 2077.856, 
+      "pctChgDoD": -0.0597, 
+      "chgDoD": -1316.4049
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b107", 
+      "date": "2018-03-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 19097.1018, 
+      "value": 1912.9047, 
+      "pctChgDoD": -0.0794, 
+      "chgDoD": -1646.7576
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b108", 
+      "date": "2018-03-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18002.3187, 
+      "value": 1803.2433, 
+      "pctChgDoD": -0.0573, 
+      "chgDoD": -1094.7831
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b109", 
+      "date": "2018-03-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18257.6144, 
+      "value": 1828.8156, 
+      "pctChgDoD": 0.0142, 
+      "chgDoD": 255.2957
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b10a", 
+      "date": "2018-03-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17281.0902, 
+      "value": 1730.9998, 
+      "pctChgDoD": -0.0535, 
+      "chgDoD": -976.5242
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b10b", 
+      "date": "2018-03-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18461.7853, 
+      "value": 1849.2668, 
+      "pctChgDoD": 0.0683, 
+      "chgDoD": 1180.6951
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b10c", 
+      "date": "2018-03-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17836.1595, 
+      "value": 1786.5996, 
+      "pctChgDoD": -0.0339, 
+      "chgDoD": -625.6258
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b10d", 
+      "date": "2018-03-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17979.285, 
+      "value": 1800.9361, 
+      "pctChgDoD": 0.008, 
+      "chgDoD": 143.1255
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b10e", 
+      "date": "2018-03-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15875.0685, 
+      "value": 1590.1624, 
+      "pctChgDoD": -0.117, 
+      "chgDoD": -2104.2165
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b10f", 
+      "date": "2018-03-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15557.157, 
+      "value": 1558.3181, 
+      "pctChgDoD": -0.02, 
+      "chgDoD": -317.9115
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b110", 
+      "date": "2018-03-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15343.6222, 
+      "value": 1536.9289, 
+      "pctChgDoD": -0.0137, 
+      "chgDoD": -213.5348
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b111", 
+      "date": "2018-03-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14127.3659, 
+      "value": 1415.0998, 
+      "pctChgDoD": -0.0793, 
+      "chgDoD": -1216.2563
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b112", 
+      "date": "2018-03-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14435.2875, 
+      "value": 1445.9435, 
+      "pctChgDoD": 0.0218, 
+      "chgDoD": 307.9216
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b113", 
+      "date": "2018-03-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15909.5831, 
+      "value": 1593.6197, 
+      "pctChgDoD": 0.1021, 
+      "chgDoD": 1474.2956
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b114", 
+      "date": "2018-03-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 16345.4897, 
+      "value": 1637.2832, 
+      "pctChgDoD": 0.0274, 
+      "chgDoD": 435.9066
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b115", 
+      "date": "2018-03-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 16317.2841, 
+      "value": 1634.458, 
+      "pctChgDoD": -0.0017, 
+      "chgDoD": -28.2056
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b116", 
+      "date": "2018-03-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15867.6745, 
+      "value": 1589.4218, 
+      "pctChgDoD": -0.0276, 
+      "chgDoD": -449.6096
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b117", 
+      "date": "2018-03-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15754.9894, 
+      "value": 1578.1344, 
+      "pctChgDoD": -0.0071, 
+      "chgDoD": -112.6851
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b118", 
+      "date": "2018-03-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15447.0463, 
+      "value": 1547.2886, 
+      "pctChgDoD": -0.0195, 
+      "chgDoD": -307.9431
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b119", 
+      "date": "2018-03-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15367.6455, 
+      "value": 1539.3352, 
+      "pctChgDoD": -0.0051, 
+      "chgDoD": -79.4008
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b11a", 
+      "date": "2018-03-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14383.0291, 
+      "value": 1440.7089, 
+      "pctChgDoD": -0.0641, 
+      "chgDoD": -984.6164
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b11b", 
+      "date": "2018-03-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 13567.0826, 
+      "value": 1358.9778, 
+      "pctChgDoD": -0.0567, 
+      "chgDoD": -815.9465
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b11c", 
+      "date": "2018-03-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 13746.0701, 
+      "value": 1376.9064, 
+      "pctChgDoD": 0.0132, 
+      "chgDoD": 178.9875
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b11d", 
+      "date": "2018-03-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12271.5318, 
+      "value": 1229.2059, 
+      "pctChgDoD": -0.1073, 
+      "chgDoD": -1474.5383
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b11e", 
+      "date": "2018-03-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 11995.2687, 
+      "value": 1201.5334, 
+      "pctChgDoD": -0.0225, 
+      "chgDoD": -276.2631
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b11f", 
+      "date": "2018-03-31T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12314.0636, 
+      "value": 1233.4663, 
+      "pctChgDoD": 0.0266, 
+      "chgDoD": 318.7949
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b120", 
+      "date": "2018-04-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12150.3896, 
+      "value": 1217.0715, 
+      "pctChgDoD": -0.0133, 
+      "chgDoD": -163.674
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b121", 
+      "date": "2018-04-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12559.9232, 
+      "value": 1258.0933, 
+      "pctChgDoD": 0.0337, 
+      "chgDoD": 409.5336
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b122", 
+      "date": "2018-04-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 13019.723, 
+      "value": 1304.1502, 
+      "pctChgDoD": 0.0366, 
+      "chgDoD": 459.7998
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b123", 
+      "date": "2018-04-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 11692.7745, 
+      "value": 1171.2334, 
+      "pctChgDoD": -0.1019, 
+      "chgDoD": -1326.9485
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b124", 
+      "date": "2018-04-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 11968.1673, 
+      "value": 1198.8188, 
+      "pctChgDoD": 0.0236, 
+      "chgDoD": 275.3928
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b125", 
+      "date": "2018-04-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 11556.2222, 
+      "value": 1157.5553, 
+      "pctChgDoD": -0.0344, 
+      "chgDoD": -411.9451
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b126", 
+      "date": "2018-04-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12031.9008, 
+      "value": 1205.2028, 
+      "pctChgDoD": 0.0412, 
+      "chgDoD": 475.6786
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b127", 
+      "date": "2018-04-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12550.5987, 
+      "value": 1257.1593, 
+      "pctChgDoD": 0.0431, 
+      "chgDoD": 518.6979
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b128", 
+      "date": "2018-04-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 11987.4236, 
+      "value": 1200.7476, 
+      "pctChgDoD": -0.0449, 
+      "chgDoD": -563.1751
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b129", 
+      "date": "2018-04-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12191.2252, 
+      "value": 1221.1619, 
+      "pctChgDoD": 0.017, 
+      "chgDoD": 203.8016
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b12a", 
+      "date": "2018-04-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 13751.8203, 
+      "value": 1377.4824, 
+      "pctChgDoD": 0.128, 
+      "chgDoD": 1560.5951
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b12b", 
+      "date": "2018-04-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15232.2269, 
+      "value": 1525.7707, 
+      "pctChgDoD": 0.1077, 
+      "chgDoD": 1480.4066
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b12c", 
+      "date": "2018-04-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15447.6107, 
+      "value": 1547.3451, 
+      "pctChgDoD": 0.0141, 
+      "chgDoD": 215.3838
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b12d", 
+      "date": "2018-04-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15282.2016, 
+      "value": 1530.7766, 
+      "pctChgDoD": -0.0107, 
+      "chgDoD": -165.4091
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b12e", 
+      "date": "2018-04-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15850.7038, 
+      "value": 1587.7219, 
+      "pctChgDoD": 0.0372, 
+      "chgDoD": 568.5022
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b12f", 
+      "date": "2018-04-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 16273.9234, 
+      "value": 1630.1146, 
+      "pctChgDoD": 0.0267, 
+      "chgDoD": 423.2196
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b130", 
+      "date": "2018-04-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 16225.5685, 
+      "value": 1625.2711, 
+      "pctChgDoD": -0.003, 
+      "chgDoD": -48.3549
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b131", 
+      "date": "2018-04-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17896.7615, 
+      "value": 1792.6699, 
+      "pctChgDoD": 0.103, 
+      "chgDoD": 1671.193
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b132", 
+      "date": "2018-04-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18809.8805, 
+      "value": 1884.1346, 
+      "pctChgDoD": 0.051, 
+      "chgDoD": 913.119
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b133", 
+      "date": "2018-04-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20525.4055, 
+      "value": 2055.974, 
+      "pctChgDoD": 0.0912, 
+      "chgDoD": 1715.525
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b134", 
+      "date": "2018-04-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20033.7681, 
+      "value": 2006.728, 
+      "pctChgDoD": -0.024, 
+      "chgDoD": -491.6374
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b135", 
+      "date": "2018-04-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20625.7582, 
+      "value": 2066.0261, 
+      "pctChgDoD": 0.0295, 
+      "chgDoD": 591.9901
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b136", 
+      "date": "2018-04-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22350.1327, 
+      "value": 2238.752, 
+      "pctChgDoD": 0.0836, 
+      "chgDoD": 1724.3745
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b137", 
+      "date": "2018-04-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21509.3435, 
+      "value": 2154.5324, 
+      "pctChgDoD": -0.0376, 
+      "chgDoD": -840.7892
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b138", 
+      "date": "2018-04-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20788.9038, 
+      "value": 2082.3679, 
+      "pctChgDoD": -0.0335, 
+      "chgDoD": -720.4397
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b139", 
+      "date": "2018-04-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22068.2442, 
+      "value": 2210.516, 
+      "pctChgDoD": 0.0615, 
+      "chgDoD": 1279.3404
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b13a", 
+      "date": "2018-04-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22750.421, 
+      "value": 2278.8478, 
+      "pctChgDoD": 0.0309, 
+      "chgDoD": 682.1768
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b13b", 
+      "date": "2018-04-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 25541.6045, 
+      "value": 2558.433, 
+      "pctChgDoD": 0.1227, 
+      "chgDoD": 2791.1835
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b13c", 
+      "date": "2018-04-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 24071.3973, 
+      "value": 2411.1664, 
+      "pctChgDoD": -0.0576, 
+      "chgDoD": -1470.2072
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b13d", 
+      "date": "2018-04-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22308.3429, 
+      "value": 2234.566, 
+      "pctChgDoD": -0.0732, 
+      "chgDoD": -1763.0544
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b13e", 
+      "date": "2018-05-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 24025.6561, 
+      "value": 2406.5846, 
+      "pctChgDoD": 0.077, 
+      "chgDoD": 1717.3132
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b13f", 
+      "date": "2018-05-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 25008.8474, 
+      "value": 2505.0682, 
+      "pctChgDoD": 0.0409, 
+      "chgDoD": 983.1913
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b140", 
+      "date": "2018-05-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 24804.604, 
+      "value": 2484.6097, 
+      "pctChgDoD": -0.0082, 
+      "chgDoD": -204.2434
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b141", 
+      "date": "2018-05-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 25894.3774, 
+      "value": 2593.7693, 
+      "pctChgDoD": 0.0439, 
+      "chgDoD": 1089.7734
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b142", 
+      "date": "2018-05-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 26206.5738, 
+      "value": 2625.0412, 
+      "pctChgDoD": 0.0121, 
+      "chgDoD": 312.1964
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b143", 
+      "date": "2018-05-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 24406.5433, 
+      "value": 2444.737, 
+      "pctChgDoD": -0.0687, 
+      "chgDoD": -1800.0305
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b144", 
+      "date": "2018-05-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 25308.8384, 
+      "value": 2535.1175, 
+      "pctChgDoD": 0.037, 
+      "chgDoD": 902.2951
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b145", 
+      "date": "2018-05-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 23177.5501, 
+      "value": 2321.6321, 
+      "pctChgDoD": -0.0842, 
+      "chgDoD": -2131.2883
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b146", 
+      "date": "2018-05-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 24218.9205, 
+      "value": 2425.9434, 
+      "pctChgDoD": 0.0449, 
+      "chgDoD": 1041.3704
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b147", 
+      "date": "2018-05-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 22786.5056, 
+      "value": 2282.4623, 
+      "pctChgDoD": -0.0591, 
+      "chgDoD": -1432.4149
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b148", 
+      "date": "2018-05-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20790.3295, 
+      "value": 2082.5107, 
+      "pctChgDoD": -0.0876, 
+      "chgDoD": -1996.1761
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b149", 
+      "date": "2018-05-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21273.5212, 
+      "value": 2130.9107, 
+      "pctChgDoD": 0.0232, 
+      "chgDoD": 483.1917
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b14a", 
+      "date": "2018-05-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20861.3815, 
+      "value": 2089.6278, 
+      "pctChgDoD": -0.0194, 
+      "chgDoD": -412.1397
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b14b", 
+      "date": "2018-05-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 21920.9408, 
+      "value": 2195.761, 
+      "pctChgDoD": 0.0508, 
+      "chgDoD": 1059.5593
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b14c", 
+      "date": "2018-05-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 19957.6087, 
+      "value": 1999.0994, 
+      "pctChgDoD": -0.0896, 
+      "chgDoD": -1963.3321
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b14d", 
+      "date": "2018-05-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20628.6132, 
+      "value": 2066.3121, 
+      "pctChgDoD": 0.0336, 
+      "chgDoD": 671.0045
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b14e", 
+      "date": "2018-05-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 19788.1207, 
+      "value": 1982.1222, 
+      "pctChgDoD": -0.0407, 
+      "chgDoD": -840.4925
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b14f", 
+      "date": "2018-05-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 20096.9323, 
+      "value": 2013.055, 
+      "pctChgDoD": 0.0156, 
+      "chgDoD": 308.8116
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b150", 
+      "date": "2018-05-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 19856.2185, 
+      "value": 1988.9434, 
+      "pctChgDoD": -0.012, 
+      "chgDoD": -240.7138
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b151", 
+      "date": "2018-05-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18682.8059, 
+      "value": 1871.4058, 
+      "pctChgDoD": -0.0591, 
+      "chgDoD": -1173.4126
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b152", 
+      "date": "2018-05-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17543.2528, 
+      "value": 1757.2599, 
+      "pctChgDoD": -0.061, 
+      "chgDoD": -1139.5531
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b153", 
+      "date": "2018-05-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18096.1208, 
+      "value": 1812.6392, 
+      "pctChgDoD": 0.0315, 
+      "chgDoD": 552.868
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b154", 
+      "date": "2018-05-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17494.885, 
+      "value": 1752.415, 
+      "pctChgDoD": -0.0332, 
+      "chgDoD": -601.2358
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b155", 
+      "date": "2018-05-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17252.1441, 
+      "value": 1728.1003, 
+      "pctChgDoD": -0.0139, 
+      "chgDoD": -242.7409
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b156", 
+      "date": "2018-05-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17370.1223, 
+      "value": 1739.9179, 
+      "pctChgDoD": 0.0068, 
+      "chgDoD": 117.9782
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b157", 
+      "date": "2018-05-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 16109.5394, 
+      "value": 1613.6487, 
+      "pctChgDoD": -0.0726, 
+      "chgDoD": -1260.5829
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b158", 
+      "date": "2018-05-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17583.3829, 
+      "value": 1761.2796, 
+      "pctChgDoD": 0.0915, 
+      "chgDoD": 1473.8435
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b159", 
+      "date": "2018-05-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17249.1074, 
+      "value": 1727.7962, 
+      "pctChgDoD": -0.019, 
+      "chgDoD": -334.2755
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b15a", 
+      "date": "2018-05-31T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17730.4451, 
+      "value": 1776.0105, 
+      "pctChgDoD": 0.0279, 
+      "chgDoD": 481.3377
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b15b", 
+      "date": "2018-06-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17757.182, 
+      "value": 1778.6886, 
+      "pctChgDoD": 0.0015, 
+      "chgDoD": 26.7369
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b15c", 
+      "date": "2018-06-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18722.1596, 
+      "value": 1875.3478, 
+      "pctChgDoD": 0.0543, 
+      "chgDoD": 964.9776
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b15d", 
+      "date": "2018-06-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 19268.9585, 
+      "value": 1930.1191, 
+      "pctChgDoD": 0.0292, 
+      "chgDoD": 546.7989
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b15e", 
+      "date": "2018-06-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18702.7751, 
+      "value": 1873.4061, 
+      "pctChgDoD": -0.0294, 
+      "chgDoD": -566.1834
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b15f", 
+      "date": "2018-06-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18735.6127, 
+      "value": 1876.6954, 
+      "pctChgDoD": 0.0018, 
+      "chgDoD": 32.8376
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b160", 
+      "date": "2018-06-06T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18938.7265, 
+      "value": 1897.0407, 
+      "pctChgDoD": 0.0108, 
+      "chgDoD": 203.1138
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b161", 
+      "date": "2018-06-07T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18601.3289, 
+      "value": 1863.2445, 
+      "pctChgDoD": -0.0178, 
+      "chgDoD": -337.3976
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b162", 
+      "date": "2018-06-08T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 18789.8101, 
+      "value": 1882.1242, 
+      "pctChgDoD": 0.0101, 
+      "chgDoD": 188.4812
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b163", 
+      "date": "2018-06-09T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 17389.5585, 
+      "value": 1741.8648, 
+      "pctChgDoD": -0.0745, 
+      "chgDoD": -1400.2516
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b164", 
+      "date": "2018-06-10T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 16159.0125, 
+      "value": 1618.6043, 
+      "pctChgDoD": -0.0708, 
+      "chgDoD": -1230.546
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b165", 
+      "date": "2018-06-11T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15962.4151, 
+      "value": 1598.9117, 
+      "pctChgDoD": -0.0122, 
+      "chgDoD": -196.5974
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b166", 
+      "date": "2018-06-12T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14877.5568, 
+      "value": 1490.2444, 
+      "pctChgDoD": -0.068, 
+      "chgDoD": -1084.8583
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b167", 
+      "date": "2018-06-13T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14834.4233, 
+      "value": 1485.9238, 
+      "pctChgDoD": -0.0029, 
+      "chgDoD": -43.1335
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b168", 
+      "date": "2018-06-14T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15264.5553, 
+      "value": 1529.009, 
+      "pctChgDoD": 0.029, 
+      "chgDoD": 430.132
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b169", 
+      "date": "2018-06-15T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14728.9716, 
+      "value": 1475.361, 
+      "pctChgDoD": -0.0351, 
+      "chgDoD": -535.5837
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b16a", 
+      "date": "2018-06-16T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14987.7455, 
+      "value": 1501.2817, 
+      "pctChgDoD": 0.0176, 
+      "chgDoD": 258.7739
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b16b", 
+      "date": "2018-06-17T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14593.32, 
+      "value": 1461.7732, 
+      "pctChgDoD": -0.0263, 
+      "chgDoD": -394.4255
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b16c", 
+      "date": "2018-06-18T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15041.9849, 
+      "value": 1506.7147, 
+      "pctChgDoD": 0.0307, 
+      "chgDoD": 448.6649
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b16d", 
+      "date": "2018-06-19T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14852.4831, 
+      "value": 1487.7328, 
+      "pctChgDoD": -0.0126, 
+      "chgDoD": -189.5018
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b16e", 
+      "date": "2018-06-20T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 15316.8008, 
+      "value": 1534.2423, 
+      "pctChgDoD": 0.0313, 
+      "chgDoD": 464.3177
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b16f", 
+      "date": "2018-06-21T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14750.3997, 
+      "value": 1477.5074, 
+      "pctChgDoD": -0.037, 
+      "chgDoD": -566.4011
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b170", 
+      "date": "2018-06-22T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 13138.2837, 
+      "value": 1316.0261, 
+      "pctChgDoD": -0.1093, 
+      "chgDoD": -1612.116
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b171", 
+      "date": "2018-06-23T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12894.184, 
+      "value": 1291.5753, 
+      "pctChgDoD": -0.0186, 
+      "chgDoD": -244.0997
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b172", 
+      "date": "2018-06-24T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12574.0264, 
+      "value": 1259.506, 
+      "pctChgDoD": -0.0248, 
+      "chgDoD": -320.1576
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b173", 
+      "date": "2018-06-25T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12918.1845, 
+      "value": 1293.9794, 
+      "pctChgDoD": 0.0274, 
+      "chgDoD": 344.1581
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b174", 
+      "date": "2018-06-26T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12103.3077, 
+      "value": 1212.3554, 
+      "pctChgDoD": -0.0631, 
+      "chgDoD": -814.8768
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b175", 
+      "date": "2018-06-27T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12445.0757, 
+      "value": 1246.5894, 
+      "pctChgDoD": 0.0282, 
+      "chgDoD": 341.768
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b176", 
+      "date": "2018-06-28T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 11802.658, 
+      "value": 1182.2401, 
+      "pctChgDoD": -0.0516, 
+      "chgDoD": -642.4177
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b177", 
+      "date": "2018-06-29T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12854.6663, 
+      "value": 1287.617, 
+      "pctChgDoD": 0.0891, 
+      "chgDoD": 1052.0083
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b178", 
+      "date": "2018-06-30T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 12798.9045, 
+      "value": 1282.0314, 
+      "pctChgDoD": -0.0043, 
+      "chgDoD": -55.7618
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b179", 
+      "date": "2018-07-01T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 13062.3989, 
+      "value": 1308.425, 
+      "pctChgDoD": 0.0206, 
+      "chgDoD": 263.4944
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b17a", 
+      "date": "2018-07-02T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 14106.7518, 
+      "value": 1413.0349, 
+      "pctChgDoD": 0.08, 
+      "chgDoD": 1044.3529
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b17b", 
+      "date": "2018-07-03T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 13347.65, 
+      "value": 1336.9978, 
+      "pctChgDoD": -0.0538, 
+      "chgDoD": -759.1018
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b17c", 
+      "date": "2018-07-04T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 13808.2178, 
+      "value": 1383.1316, 
+      "pctChgDoD": 0.0345, 
+      "chgDoD": 460.5678
+    }, 
+    {
+      "_id": "5b3f1602fa8e44117f28b17d", 
+      "date": "2018-07-05T00:00:00.000Z", 
+      "indexName": "digicorew", 
+      "value_usd": 13431.5754, 
+      "value": 1345.4044, 
+      "pctChgDoD": -0.0273, 
+      "chgDoD": -376.6424
+    }
+  ]
+}

@@ -26,8 +26,15 @@ def main():
     print(beta)
 
 def get_data(filename):
-    # read dataframe from file?
-    pass
+    df = json_normalize(pd.read_json(filename))
+    coin_name = list(df)[0]
+    return df, coin_name
+
+def preop_formatting(raw,coin_name):
+	df1 = raw['date']
+	df2 = pd.to_numeric(raw['pctChgDoD'], errors='coerce')
+    final = pd.concat([df2,df3], axis = 1)
+    return final
 
 def va_tail_ratio(returns):
     ratios = []

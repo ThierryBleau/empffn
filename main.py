@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+from pandas.io.json import json_normalize
 import ffn
 import empyrical as emp
 import sys
@@ -21,26 +22,39 @@ def main():
 
     alpha, beta = emp.alpha_beta(returns2, benchmark_returns)
     tratios = va_tail_ratio(df)
-    print(tratios)
-    print(alpha)
-    print(beta)
 
 def get_data(filename):
-    df = json_normalize(pd.read_json(filename))
+    df = pd.read_json(filename)
     coin_name = list(df)[0]
-    return df, coin_name
+    df1 = json_normalize(df[coin_name])
+    return (df1, coin_name)
 
-def preop_formatting(raw,coin_name):
-	df1 = raw['date']
-	df2 = pd.to_numeric(raw['pctChgDoD'], errors='coerce')
-    final = pd.concat([df2,df3], axis = 1)
+def preop_formatting(raw, coin_name):
+    #set date as index?
+    df1 = raw['date']
+    df2 = pd.to_numeric(raw['pctChgDoD'], errors = 'coerce')
+    final = pd.concat([df1,df2],axis=1)
+    final.columns = ['date', coin_name]
+    return final
+
+def add_ticker(main_df,tick_name):
+    new, name = get_data(tick_name + '.json')
+    new = preop_formatting(new, name)
+    #what to do with dates alignment?
+    final = pd.concat([main_df,new], axis=1)
     return final
 
 def va_tail_ratio(returns):
     ratios = []
     for ticker in returns:
-        ratios.append(emp.tail_ratio(returns[ticker]))
+        if ticker is not 'date':
+            ratios.append(emp.tail_ratio(returns[ticker]))
     return ratios
 
+
+#should return list of results
+def df_map(func, df):
+    df1 = df[['digicorew']]
+    return df1.apply(func)
 
 main()

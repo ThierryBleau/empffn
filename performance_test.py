@@ -31,4 +31,4 @@ def run2():
 
 if __name__ == '__main__':
 	run1()
-	#run2()
+	run2()

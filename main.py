@@ -9,14 +9,30 @@ def get_data(filename):
     df = pd.read_json(filename)
     coin_name = list(df)[0]
     df1 = json_normalize(df[coin_name])
+    df1 = df1.iloc[::-1]
     return (df1, coin_name)
 
-def preop_formatting(raw, coin_name):
-    df1 = raw['date']
-    df2 = pd.to_numeric(raw['pctChgDoD'], errors = 'coerce')
+def get_csv(filename):
+    df = pd.read_csv(filename)
+    df = df.iloc[::-1]
+    df.set_index('Date', inplace = True)
+    return df.dropna()
+
+def usd_formatting(raw, coin_name):
+    df1 = raw['time (UTC)']
+    df2 = pd.to_numeric(raw['pctChgDoD (USD)'], errors = 'coerce')
     final = pd.concat([df1,df2],axis=1)
-    final.columns = ['date', coin_name]
-    final.set_index('date', inplace = True)
+    final.columns = ['time (UTC)', coin_name]
+    final.set_index('time (UTC)', inplace = True)
+    final.dropna(axis=1)
+    return final
+
+def btc_formatting(raw, coin_name):
+    df1 = raw['time (UTC)']
+    df2 = pd.to_numeric(raw['pctChgDoD (BTC)'], errors = 'coerce')
+    final = pd.concat([df1,df2],axis=1)
+    final.columns = ['time (UTC)', coin_name]
+    final.set_index('time (UTC)', inplace = True)
     final.dropna(axis=1)
     return final
 
